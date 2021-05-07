@@ -1,0 +1,20 @@
+msgid ""
+msgstr ""
+"Language: en_US\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "RECENT_USERS"
+msgstr "Recent Users"
+
+msgid "LATEST_POSTS"
+msgstr "Latest Posts"
+
+msgid "EVERYBODY_HAIKU"
+msgstr "Everybody Haiku!"
+
+msgid "HOT_KEYWORDS"
+msgstr "Hot Keywords"
+
+msgid "CONTINUE_AS_USER"
+msgstr "Continue as %s"
+
