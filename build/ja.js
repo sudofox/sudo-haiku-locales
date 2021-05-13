@@ -3,13 +3,14 @@ var messages = {
         NOT_READY_TO_LOAD: "Not ready to load (canLoad = false)",
     },
     main: {
-        RECENT_USERS: 'Recent Users',
+        RECENT_USERS: 'ユーザー一覧',
         LATEST_POSTS: 'Latest Posts',
         EVERYBODY_HAIKU: 'みんなでハイク',
         HOT_KEYWORDS: 'Hot Keywords',
         CONTINUE_AS_USER: 'Continue as {name}',
         ENTRIES: 'Entries',
         KEYWORDS: 'Keywords',
+        ALBUM: 'アルバム',
         USERS: 'Users',
         LOGIN_WITH_HATENA: 'Login with Hatena',
         USERS_ENTRY: "{name}' のエントリー",
@@ -19,6 +20,22 @@ var messages = {
         RELATED_KEYWORDS: "関連キーワード",
         ADD_TO_FAVORITES: "お気に入りに追加",
         REMOVE_FROM_FAVORITES: "お気に入りから削除",
+        FAVORITE_KEYWORDS: "Favorite Keywords",
+        NEW_HATENA_BLOG_ENTRY_ABOUT_WORD: "{word} をつけて記事を書く",
+        HATENA_BLOG_TAG_ABOUT_WORD: "{word}とは？",
+        SETTINGS: "Settings",
+    },
+    settings: {
+        SETTINGS: "Settings",
+        SECTION_ACCOUNT: "Account",
+        SECTION_STARS: "Stars",
+        LAST_PROFILE_SYNC: "Last Profile Sync",
+        SYNC_DATA_EXPLANATION: "Your profile name and description will match what's written on your Hatena Profile.",
+        SYNC_PROFILE_FROM_HATENA: "Sync now",
+        EDIT_PROFILE_INFORMATION: "Edit your profile details",
+        PREVIEW: "Preview",
+        PROFILE: "Profile",
+        PLAY_STAR_SOUNDS: "Play Star sounds",
     },
     globalHeader: {
         SEARCH: '検索',
@@ -40,6 +57,7 @@ var messages = {
         BOLD: "太字",
         ITALIC: "斜体",
         UNDERLINE: "下線",
+        STRIKETHROUGH: "Strikethrough",
         ADD_IMAGE: "画像を追加",
         ADD_MENTION: "メンションを追加",
         ADD_LINK: "リンクを追加",
@@ -51,6 +69,9 @@ var messages = {
         REPLY: "返信",
         SHOW_REPLIES: "返信を表示",
         DELETE_THIS_ENTRY_CONFIRM: "このエントリーを削除しますか？",
+    },
+    entryFeed: {
+        NEW_ENTRY_MODAL: "Show {count} new entry|Show {count} new entries"
     },
     notify: {
         NOTIFICATIONS: "通知"
