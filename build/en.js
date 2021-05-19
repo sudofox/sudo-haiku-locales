@@ -60,6 +60,7 @@ var messages = {
         ADD_MENTION: "Add mention",
         BOLD: "Bold",
         CANCEL: "Cancel",
+        CODE_BLOCK: "Code block",
         DISCARD_THIS_MESSAGE: "Discard this message?",
         ITALIC: "Italic",
         JUMP_TO_EMOJI_GROUP: "Jump to {groupname}",
@@ -68,6 +69,10 @@ var messages = {
         POSTING: "Posting",
         SELECT_EMOJI_NAME: "Insert {emoji} emoji",
         STRIKETHROUGH: "Strikethrough",
+        TEXT_PLACEHOLDER_1: "What's happening?",
+        TEXT_PLACEHOLDER_2: "How's your day going?",
+        TEXT_PLACEHOLDER_3: "What's on your mind?",
+        TEXT_PLACEHOLDER_4: "What are you up to?",
         UNDERLINE: "Underline",
     },
     entry: {
@@ -88,6 +93,5 @@ var messages = {
     }
 
 };
-
 
 export default messages;

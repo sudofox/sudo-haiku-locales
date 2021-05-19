@@ -60,6 +60,7 @@ var messages = {
         ADD_MENTION: "メンションを追加",
         BOLD: "太字",
         CANCEL: "キャンセル",
+        CODE_BLOCK: "Code block",
         DISCARD_THIS_MESSAGE: "このエントリーを破棄しますか？",
         ITALIC: "斜体",
         JUMP_TO_EMOJI_GROUP: "{groupname} にジャンプ",
@@ -68,6 +69,10 @@ var messages = {
         POSTING: "投稿中",
         SELECT_EMOJI_NAME: "絵文字 {emoji} を挿入",
         STRIKETHROUGH: "打ち消し線",
+        TEXT_PLACEHOLDER_1: "What's happening?",
+        TEXT_PLACEHOLDER_2: "How's your day going?",
+        TEXT_PLACEHOLDER_3: "What's on your mind?",
+        TEXT_PLACEHOLDER_4: "What are you up to?",
         UNDERLINE: "下線",
     },
     entry: {
@@ -88,6 +93,5 @@ var messages = {
     }
 
 };
-
 
 export default messages;
