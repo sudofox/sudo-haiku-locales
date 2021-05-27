@@ -1,6 +1,57 @@
 var messages = {
+    composer: {
+        ADD_EMOJI: "Add emoji",
+        ADD_IMAGE: "Add image",
+        ADD_LINK: "Add link",
+        ADD_MENTION: "Add mention",
+        BOLD: "Bold",
+        CANCEL: "Cancel",
+        CODE_BLOCK: "Code block",
+        DISCARD_THIS_MESSAGE: "Discard this message?",
+        ITALIC: "Italic",
+        JUMP_TO_EMOJI_GROUP: "Jump to {groupname}",
+        KEYWORD_PLACEHOLDER: "Keyword (optional)",
+        POST: "Post",
+        POSTING: "Posting",
+        SELECT_EMOJI_NAME: "Insert {emoji} emoji",
+        STRIKETHROUGH: "Strikethrough",
+        TEXT_PLACEHOLDER_1: "What's happening?",
+        TEXT_PLACEHOLDER_2: "How's your day going?",
+        TEXT_PLACEHOLDER_3: "What's on your mind?",
+        TEXT_PLACEHOLDER_4: "What are you up to?",
+        UNDERLINE: "Underline",
+    },
     debug: {
         NOT_READY_TO_LOAD: "Not ready to load (canLoad = false)",
+    },
+    entry: {
+        ACCESS_LIMITED: "You're unable to view this entry because the account owner limits who can view their entries.",
+        DELETE_THIS_ENTRY_CONFIRM: "Do you want to delete this entry?",
+        ENTRY_DELETED: "This entry has been deleted.",
+        REPLY: "Reply",
+        SHOW_REPLIES: "Show repies",
+    },
+    entryFeed: {
+        NEW_ENTRY_MODAL: "Show {count} new entry|Show {count} new entries"
+    },
+    error: {
+        EMPTY_POST: "Entry cannot be empty",
+    },
+    globalHeader: {
+        ANTENNA: "Antenna",
+        HELP: "Help",
+        MY_HATENA: "My Hatena",
+        MY_PAGE: "My Page",
+        PROFILE: "Profile",
+        RECENT: "Recent",
+        SEARCH: "Search",
+        SERVICES_USED: "Services used",
+        SETTINGS: "Settings",
+    },
+    hatenaStar: {
+        ADD_STAR_BUTTON: "Add Star button",
+        ADD_STAR: "Add Star",
+        EXPAND_COLLAPSED_STARS: "Expand"
     },
     main: {
         ACCOUNT_IS_BLOCKED_SUBTEXT: "Do you still want to view these entries? Viewing them won't unblock {user}.",
@@ -44,6 +95,9 @@ var messages = {
         YOU_ARE_BLOCKED_SUBTEXT: "You can't follow or see {user}'s entries.",
         YOU_ARE_BLOCKED: "You're blocked",
     },
+    notify: {
+        NOTIFICATIONS: "Notifications"
+    },
     settings: {
         EDIT_PROFILE_INFORMATION: "Edit your profile details",
         JUMP_TO_SETTINGS_SECTION: "Jump to {section} section",
@@ -56,59 +110,7 @@ var messages = {
         SETTINGS: "Settings",
         SYNC_DATA_EXPLANATION: "Your profile name and description will match what's written on your Hatena Profile.",
         SYNC_PROFILE_FROM_HATENA: "Sync now",
-    },
-    globalHeader: {
-        ANTENNA: "Antenna",
-        HELP: "Help",
-        MY_HATENA: "My Hatena",
-        MY_PAGE: "My Page",
-        PROFILE: "Profile",
-        RECENT: "Recent",
-        SEARCH: "Search",
-        SERVICES_USED: "Services used",
-        SETTINGS: "Settings",
-    },
-    composer: {
-        ADD_EMOJI: "Add emoji",
-        ADD_IMAGE: "Add image",
-        ADD_LINK: "Add link",
-        ADD_MENTION: "Add mention",
-        BOLD: "Bold",
-        CANCEL: "Cancel",
-        CODE_BLOCK: "Code block",
-        DISCARD_THIS_MESSAGE: "Discard this message?",
-        ITALIC: "Italic",
-        JUMP_TO_EMOJI_GROUP: "Jump to {groupname}",
-        KEYWORD_PLACEHOLDER: "Keyword (optional)",
-        POST: "Post",
-        POSTING: "Posting",
-        SELECT_EMOJI_NAME: "Insert {emoji} emoji",
-        STRIKETHROUGH: "Strikethrough",
-        TEXT_PLACEHOLDER_1: "What's happening?",
-        TEXT_PLACEHOLDER_2: "How's your day going?",
-        TEXT_PLACEHOLDER_3: "What's on your mind?",
-        TEXT_PLACEHOLDER_4: "What are you up to?",
-        UNDERLINE: "Underline",
-    },
-    entry: {
-        ACCESS_LIMITED: "You're unable to view this entry because the account owner limits who can view their entries.",
-        DELETE_THIS_ENTRY_CONFIRM: "Do you want to delete this entry?",
-        ENTRY_DELETED: "This entry has been deleted.",
-        REPLY: "Reply",
-        SHOW_REPLIES: "Show repies",
-    },
-    entryFeed: {
-        NEW_ENTRY_MODAL: "Show {count} new entry|Show {count} new entries"
-    },
-    notify: {
-        NOTIFICATIONS: "Notifications"
-    },
-    hatenaStar: {
-        ADD_STAR_BUTTON: "Add Star button",
-        ADD_STAR: "Add Star",
-        EXPAND_COLLAPSED_STARS: "Expand"
     }
-
 };
 
 export default messages;

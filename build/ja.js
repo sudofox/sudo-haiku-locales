@@ -1,6 +1,57 @@
 var messages = {
+    composer: {
+        ADD_EMOJI: "絵文字を追加",
+        ADD_IMAGE: "画像を追加",
+        ADD_LINK: "リンクを追加",
+        ADD_MENTION: "メンションを追加",
+        BOLD: "太字",
+        CANCEL: "キャンセル",
+        CODE_BLOCK: "Code block",
+        DISCARD_THIS_MESSAGE: "このエントリーを破棄しますか？",
+        ITALIC: "斜体",
+        JUMP_TO_EMOJI_GROUP: "{groupname} にジャンプ",
+        KEYWORD_PLACEHOLDER: "キーワード (オプション)",
+        POST: "投稿",
+        POSTING: "投稿中",
+        SELECT_EMOJI_NAME: "絵文字 {emoji} を挿入",
+        STRIKETHROUGH: "打ち消し線",
+        TEXT_PLACEHOLDER_1: "なにか起きた？",
+        TEXT_PLACEHOLDER_2: "今日はどんな感じ？",
+        TEXT_PLACEHOLDER_3: "なにか考え中？",
+        TEXT_PLACEHOLDER_4: "今なにかしてる？",
+        UNDERLINE: "下線",
+    },
     debug: {
         NOT_READY_TO_LOAD: "Not ready to load (canLoad = false)",
+    },
+    entry: {
+        ACCESS_LIMITED: "このアカウントはエントリーを見られる人を制限しているため、エントリーを表示できません。",
+        DELETE_THIS_ENTRY_CONFIRM: "このエントリーを削除しますか？",
+        ENTRY_DELETED: "このエントリーは削除済みです。",
+        REPLY: "返信",
+        SHOW_REPLIES: "返信を表示",
+    },
+    entryFeed: {
+        NEW_ENTRY_MODAL: "{count} 件の新しいエントリーを表示|{count} 件の新しいエントリーを表示"
+    },
+    error: {
+        EMPTY_POST: "Entry cannot be empty",
+    },
+    globalHeader: {
+        ANTENNA: "アンテナ",
+        HELP: "ヘルプ",
+        MY_HATENA: "Myはてな",
+        MY_PAGE: "マイページ",
+        PROFILE: "プロフィール",
+        RECENT: "最新の投稿",
+        SEARCH: "検索",
+        SERVICES_USED: "利用中のサービス",
+        SETTINGS: "設定",
+    },
+    hatenaStar: {
+        ADD_STAR_BUTTON: "スター追加ボタン",
+        ADD_STAR: "スターを追加",
+        EXPAND_COLLAPSED_STARS: "展開"
     },
     main: {
         ACCOUNT_IS_BLOCKED_SUBTEXT: "エントリーを見ますか？ エントリーを見るボタンを押しても {user} のブロックは解除されません。",
@@ -44,6 +95,9 @@ var messages = {
         YOU_ARE_BLOCKED_SUBTEXT: "{user} をフォローしたりエントリーを見ることができません。",
         YOU_ARE_BLOCKED: "ブロックされています",
     },
+    notify: {
+        NOTIFICATIONS: "通知"
+    },
     settings: {
         EDIT_PROFILE_INFORMATION: "プロフィールを編集する",
         JUMP_TO_SETTINGS_SECTION: "{section} の項目に移動",
@@ -57,58 +111,6 @@ var messages = {
         SYNC_DATA_EXPLANATION: "名前と自己紹介をはてなプロフィールから取得します。",
         SYNC_PROFILE_FROM_HATENA: "今すぐ取得",
     },
-    globalHeader: {
-        ANTENNA: "アンテナ",
-        HELP: "ヘルプ",
-        MY_HATENA: "Myはてな",
-        MY_PAGE: "マイページ",
-        PROFILE: "プロフィール",
-        RECENT: "最新の投稿",
-        SEARCH: "検索",
-        SERVICES_USED: "利用中のサービス",
-        SETTINGS: "設定",
-    },
-    composer: {
-        ADD_EMOJI: "絵文字を追加",
-        ADD_IMAGE: "画像を追加",
-        ADD_LINK: "リンクを追加",
-        ADD_MENTION: "メンションを追加",
-        BOLD: "太字",
-        CANCEL: "キャンセル",
-        CODE_BLOCK: "Code block",
-        DISCARD_THIS_MESSAGE: "このエントリーを破棄しますか？",
-        ITALIC: "斜体",
-        JUMP_TO_EMOJI_GROUP: "{groupname} にジャンプ",
-        KEYWORD_PLACEHOLDER: "キーワード (オプション)",
-        POST: "投稿",
-        POSTING: "投稿中",
-        SELECT_EMOJI_NAME: "絵文字 {emoji} を挿入",
-        STRIKETHROUGH: "打ち消し線",
-        TEXT_PLACEHOLDER_1: "なにか起きた？",
-        TEXT_PLACEHOLDER_2: "今日はどんな感じ？",
-        TEXT_PLACEHOLDER_3: "なにか考え中？",
-        TEXT_PLACEHOLDER_4: "今なにかしてる？",
-        UNDERLINE: "下線",
-    },
-    entry: {
-        ACCESS_LIMITED: "このアカウントはエントリーを見られる人を制限しているため、エントリーを表示できません。",
-        DELETE_THIS_ENTRY_CONFIRM: "このエントリーを削除しますか？",
-        ENTRY_DELETED: "このエントリーは削除済みです。",
-        REPLY: "返信",
-        SHOW_REPLIES: "返信を表示",
-    },
-    entryFeed: {
-        NEW_ENTRY_MODAL: "{count} 件の新しいエントリーを表示|{count} 件の新しいエントリーを表示"
-    },
-    notify: {
-        NOTIFICATIONS: "通知"
-    },
-    hatenaStar: {
-        ADD_STAR_BUTTON: "スター追加ボタン",
-        ADD_STAR: "スターを追加",
-        EXPAND_COLLAPSED_STARS: "展開"
-    }
-
 };
 
 export default messages;
