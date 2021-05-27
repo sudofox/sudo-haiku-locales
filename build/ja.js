@@ -35,7 +35,16 @@ var messages = {
         NEW_ENTRY_MODAL: "{count} 件の新しいエントリーを表示|{count} 件の新しいエントリーを表示"
     },
     error: {
-        EMPTY_POST: "Entry cannot be empty",
+        BAD_IN_REPLY_TO_ENTRY_ID: "Bad in_reply_to_entry_id",
+        BAD_PARAM: "Bad parameter",
+        EMPTY_POST: "Entry cannot be blank",
+        MISSING_PARAM: "Missing parameter",
+        NO_PERMISSION: "You don't have permission to do that",
+        NOT_FOUND: "Not found",
+        PARENT_ENTRY_REMOVED: "The entry you replied to no longer exists",
+        SIGNATURE_INVALID: "JWT token signature invalid",
+        TOKEN_EXPIRED: "JWT token is expired",
+        TOKEN_MISSING: "JWT token is missing",
     },
     globalHeader: {
         ANTENNA: "アンテナ",
