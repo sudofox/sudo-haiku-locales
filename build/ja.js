@@ -121,6 +121,14 @@ var messages = {
         YOUR_ENTRY: "your entry ",
         YOUR: "your ",
     },
+    relTime: {
+        minute: 'ちょうど今',
+        minutes: '${time}分',
+        hour: '${time}時間',
+        hours: '${time}時間',
+        day: '昨日',
+        days: '${time}日間'
+    },
     settings: {
         EDIT_PROFILE_INFORMATION: "プロフィールを編集する",
         JUMP_TO_SETTINGS_SECTION: "{section} の項目に移動",

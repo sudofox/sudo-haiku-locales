@@ -121,6 +121,14 @@ var messages = {
         YOUR_ENTRY: "your entry ",
         YOUR: "your ",
     },
+    relTime: {
+        minute: 'just now',
+        minutes: '${time}m',
+        hour: '${time}h',
+        hours: '${time}h',
+        day: 'yesterday',
+        days: '${time}d'
+    },
     settings: {
         EDIT_PROFILE_INFORMATION: "Edit your profile details",
         JUMP_TO_SETTINGS_SECTION: "Jump to {section} section",
