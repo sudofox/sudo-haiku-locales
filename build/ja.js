@@ -107,6 +107,20 @@ var messages = {
     notify: {
         NOTIFICATIONS: "通知"
     },
+    notifyTerms: {
+        ADDED_YOU_TO_THEIR_FAVORITES: " added you to their favorites",
+        AND: " and ",
+        COMMA_AND: ", and ",
+        COMMA: ", ",
+        COMMENTED_ON: " commented on ",
+        INTERACTED_WITH: " interacted with ",
+        OTHER_PEOPLE: " other people",
+        REPLIED_TO: " replied to ",
+        SENT_YOU_AN_ID_CALL_ON: " sent you an ID call on ",
+        USER_HONORIFIC: "さん",
+        YOUR_ENTRY: "your entry ",
+        YOUR: "your ",
+    },
     settings: {
         EDIT_PROFILE_INFORMATION: "プロフィールを編集する",
         JUMP_TO_SETTINGS_SECTION: "{section} の項目に移動",
