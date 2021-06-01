@@ -1,81 +1,35 @@
-#, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  error.po  #-#-#-#-#\n"
-"#-#-#-#-#  error.po  #-#-#-#-#\n"
-"#-#-#-#-#  error.po  #-#-#-#-#\n"
-"#-#-#-#-#  error.po  #-#-#-#-#\n"
 "Language: en_US\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  error.po  #-#-#-#-#\n"
-"Language: ja_JP\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  error.po  #-#-#-#-#\n"
-"Language: ja_JP\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  error.po  #-#-#-#-#\n"
-"Language: ja_JP\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  error.po  #-#-#-#-#\n"
-"Language: ja_JP\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "BAD_IN_REPLY_TO_ENTRY_ID"
 msgstr "Bad in_reply_to_entry_id"
 
-msgid "BAD_IN_REPLY_TO_ENTRY_ID:"
-msgstr "Bad in_reply_to_entry_id"
-
 msgid "BAD_PARAM"
-msgstr "Bad parameter"
-
-msgid "BAD_PARAM:"
 msgstr "Bad parameter"
 
 msgid "EMPTY_POST"
 msgstr "Entry cannot be blank"
 
-msgid "EMPTY_POST:"
-msgstr "Entry cannot be blank"
-
 msgid "MISSING_PARAM"
 msgstr "Missing parameter"
-
-msgid "MISSING_PARAM:"
-msgstr "Missing parameter"
-
-msgid "NOT_FOUND"
-msgstr "Not found"
-
-msgid "NOT_FOUND:"
-msgstr "Not found"
 
 msgid "NO_PERMISSION"
 msgstr "You don't have permission to do that"
 
-msgid "NO_PERMISSION:"
-msgstr "You don't have permission to do that"
+msgid "NOT_FOUND"
+msgstr "Not found"
 
 msgid "PARENT_ENTRY_REMOVED"
-msgstr "The entry you replied to no longer exists"
-
-msgid "PARENT_ENTRY_REMOVED:"
 msgstr "The entry you replied to no longer exists"
 
 msgid "SIGNATURE_INVALID"
 msgstr "JWT token signature invalid"
 
-msgid "SIGNATURE_INVALID:"
-msgstr "JWT token signature invalid"
-
 msgid "TOKEN_EXPIRED"
-msgstr "JWT token is expired"
-
-msgid "TOKEN_EXPIRED:"
 msgstr "JWT token is expired"
 
 msgid "TOKEN_MISSING"
 msgstr "JWT token is missing"
 
-msgid "TOKEN_MISSING:"
-msgstr "JWT token is missing"

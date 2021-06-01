@@ -1,54 +1,38 @@
-#, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  settings.po  #-#-#-#-#\n"
-"#-#-#-#-#  settings.po  #-#-#-#-#\n"
-"#-#-#-#-#  settings.po  #-#-#-#-#\n"
-"#-#-#-#-#  settings.po  #-#-#-#-#\n"
 "Language: en_US\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  settings.po  #-#-#-#-#\n"
-"Language: ja_JP\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  settings.po  #-#-#-#-#\n"
-"Language: ja_JP\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  settings.po  #-#-#-#-#\n"
-"Language: ja_JP\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  settings.po  #-#-#-#-#\n"
-"Language: ja_JP\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "EDIT_PROFILE_INFORMATION"
-msgstr "プロフィールを編集する"
+msgstr "Edit your profile details"
 
 msgid "JUMP_TO_SETTINGS_SECTION"
-msgstr "{section} の項目に移動"
+msgstr "Jump to {section} section"
 
 msgid "LAST_PROFILE_SYNC"
-msgstr "最新のプロフィール同期"
+msgstr "Last Profile Sync"
 
 msgid "PLAY_STAR_SOUNDS"
-msgstr "スターの音を再生する"
+msgstr "Play Star sounds"
 
 msgid "PREVIEW"
-msgstr "プレビュー"
+msgstr "Preview"
 
 msgid "PROFILE"
-msgstr "プロフィール"
+msgstr "Profile"
 
 msgid "SECTION_ACCOUNT"
-msgstr "アカウント"
+msgstr "Account"
 
 msgid "SECTION_STARS"
-msgstr "スター"
+msgstr "Stars"
 
 msgid "SETTINGS"
-msgstr "設定"
+msgstr "Settings"
 
 msgid "SYNC_DATA_EXPLANATION"
-msgstr "名前と自己紹介をはてなプロフィールから取得します。"
+msgstr "Your profile name and description will match what's written on your Hatena Profile."
 
 msgid "SYNC_PROFILE_FROM_HATENA"
-msgstr "今すぐ取得"
+msgstr "Sync now"
+

@@ -1,39 +1,23 @@
-#, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  relTime.po  #-#-#-#-#\n"
-"#-#-#-#-#  relTime.po  #-#-#-#-#\n"
-"#-#-#-#-#  relTime.po  #-#-#-#-#\n"
-"#-#-#-#-#  relTime.po  #-#-#-#-#\n"
 "Language: en_US\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  relTime.po  #-#-#-#-#\n"
-"Language: ja_JP\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  relTime.po  #-#-#-#-#\n"
-"Language: ja_JP\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  relTime.po  #-#-#-#-#\n"
-"Language: ja_JP\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  relTime.po  #-#-#-#-#\n"
-"Language: ja_JP\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-
-msgid "day"
-msgstr "昨日"
-
-msgid "days"
-msgstr "${time}日間"
-
-msgid "hour"
-msgstr "${time}時間"
-
-msgid "hours"
-msgstr "${time}時間"
 
 msgid "minute"
-msgstr "ちょうど今"
+msgstr "just now"
 
 msgid "minutes"
-msgstr "${time}分"
+msgstr "${time}m"
+
+msgid "hour"
+msgstr "${time}h"
+
+msgid "hours"
+msgstr "${time}h"
+
+msgid "day"
+msgstr "yesterday"
+
+msgid "days"
+msgstr "${time}"
+

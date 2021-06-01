@@ -1,23 +1,6 @@
-#, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  notifyTerms.po  #-#-#-#-#\n"
-"#-#-#-#-#  notifyTerms.po  #-#-#-#-#\n"
-"#-#-#-#-#  notifyTerms.po  #-#-#-#-#\n"
-"#-#-#-#-#  notifyTerms.po  #-#-#-#-#\n"
 "Language: en_US\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  notifyTerms.po  #-#-#-#-#\n"
-"Language: ja_JP\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  notifyTerms.po  #-#-#-#-#\n"
-"Language: ja_JP\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  notifyTerms.po  #-#-#-#-#\n"
-"Language: ja_JP\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  notifyTerms.po  #-#-#-#-#\n"
-"Language: ja_JP\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "ADDED_YOU_TO_THEIR_FAVORITES"
@@ -26,11 +9,11 @@ msgstr " added you to their favorites"
 msgid "AND"
 msgstr " and "
 
-msgid "COMMA"
-msgstr ", "
-
 msgid "COMMA_AND"
 msgstr ", and "
+
+msgid "COMMA"
+msgstr ", "
 
 msgid "COMMENTED_ON"
 msgstr " commented on "
@@ -48,10 +31,11 @@ msgid "SENT_YOU_AN_ID_CALL_ON"
 msgstr " sent you an ID call on "
 
 msgid "USER_HONORIFIC"
-msgstr "さん"
+msgstr ""
+
+msgid "YOUR_ENTRY"
+msgstr "your entry "
 
 msgid "YOUR"
 msgstr "your "
 
-msgid "YOUR_ENTRY"
-msgstr "your entry "

@@ -1,141 +1,124 @@
-#, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  main.po  #-#-#-#-#\n"
-"#-#-#-#-#  main.po  #-#-#-#-#\n"
-"#-#-#-#-#  main.po  #-#-#-#-#\n"
-"#-#-#-#-#  main.po  #-#-#-#-#\n"
 "Language: en_US\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  main.po  #-#-#-#-#\n"
-"Language: ja_JP\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  main.po  #-#-#-#-#\n"
-"Language: ja_JP\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  main.po  #-#-#-#-#\n"
-"Language: ja_JP\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  main.po  #-#-#-#-#\n"
-"Language: ja_JP\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-
-msgid "ACCOUNT_IS_BLOCKED"
-msgstr "{user} はブロック中です"
 
 msgid "ACCOUNT_IS_BLOCKED_SUBTEXT"
-msgstr "エントリーを見ますか？ エントリーを見るボタンを押しても {user} のブロックは解除されません。"
+msgstr "Do you still want to view these entries? Viewing them won't unblock {user}."
+
+msgid "ACCOUNT_IS_BLOCKED"
+msgstr "{user} is blocked"
 
 msgid "ACCOUNT_IS_MUTED"
-msgstr "このユーザーのエントリーはミュート中です。"
+msgstr "You've muted entries from this user."
 
 msgid "ADD_TO_FAVORITES"
-msgstr "お気に入りに追加"
+msgstr "Add to favorites"
 
 msgid "ALBUM"
-msgstr "アルバム"
-
-msgid "BLOCKED"
-msgstr "ブロック中"
+msgstr "Album"
 
 msgid "BLOCK_USER"
-msgstr "{user} をブロックする"
+msgstr "Block {user}"
+
+msgid "BLOCKED"
+msgstr "Blocked"
 
 msgid "CONTINUE_AS_USER"
-msgstr "{name} としてログイン"
+msgstr "Continue as {name}"
 
 msgid "ENTRIES"
-msgstr "エントリー"
+msgstr "Entries"
 
 msgid "EVERYBODY_HAIKU"
-msgstr "みんなでハイク"
+msgstr "Everybody Haiku!"
 
 msgid "FAVORITE_KEYWORDS"
-msgstr "お気に入りキーワード"
-
-msgid "HATENA_BLOG_TAG"
-msgstr "はてなブログ タグ"
+msgstr "Favorite Keywords"
 
 msgid "HATENA_BLOG_TAG_ABOUT_WORD"
-msgstr "{word}とは？"
+msgstr "What is {word}?"
+
+msgid "HATENA_BLOG_TAG"
+msgstr "Hatena Blog Tags"
 
 msgid "HOT_KEYWORDS"
-msgstr "注目のキーワード"
-
-msgid "KEYWORDS"
-msgstr "キーワード"
+msgstr "Hot Keywords"
 
 msgid "KEYWORD_IS_MUTED"
-msgstr "このキーワードのエントリーはミュート中です。"
+msgstr "You've muted entries from this keyword."
+
+msgid "KEYWORDS"
+msgstr "Keywords"
 
 msgid "LATEST_POSTS"
-msgstr "最新の投稿"
+msgstr "Latest Posts"
 
 msgid "LEARN_MORE"
-msgstr "くわしく見る"
+msgstr "Learn more"
 
 msgid "LOGIN_WITH_HATENA"
-msgstr "はてなIDでログイン"
-
-msgid "MUTE"
-msgstr "ミュート"
+msgstr "Login with Hatena ID"
 
 msgid "MUTE_THING"
-msgstr "{thing} をミュートする"
+msgstr "Mute {thing}"
+
+msgid "MUTE"
+msgstr "Mute"
 
 msgid "NEW_HATENA_BLOG_ENTRY_ABOUT_WORD"
-msgstr "{word} タグをつけて記事を書く"
+msgstr "Write a blog about {word}"
 
 msgid "NO_BLOG_TAG_DATA_AVAILABLE"
-msgstr "このキーワードの情報はありませんでした"
+msgstr "No information available for this keyword"
 
 msgid "READ_ABOUT_WORD_ON_HATENA_BLOG_TAG"
-msgstr "{word} について読む"
+msgstr "Read about {word}"
 
 msgid "READ_MORE"
-msgstr "もっと見る…"
+msgstr "Read more…"
 
 msgid "RECENT_USERS"
-msgstr "ユーザー一覧"
+msgstr "Recent Users"
 
 msgid "RELATED_KEYWORDS"
-msgstr "関連キーワード"
+msgstr "Related Keywords"
 
 msgid "REMOVE_FROM_FAVORITES"
-msgstr "お気に入りから削除"
+msgstr "Remove from favorites"
 
 msgid "SETTINGS"
-msgstr "設定"
+msgstr "Settings"
 
 msgid "UNBLOCK_USER"
-msgstr "{user} のブロックを解除"
-
-msgid "UNMUTE"
-msgstr "ミュートを解除"
+msgstr "Unblock {user}"
 
 msgid "UNMUTE_THING"
-msgstr "{thing} のミュートを解除"
+msgstr "Unmute {thing}"
 
-msgid "USERS"
-msgstr "ユーザー"
+msgid "UNMUTE"
+msgstr "Unmute"
 
 msgid "USERS_ENTRY"
-msgstr "{name} のエントリー"
+msgstr "{name}'s entry"
 
 msgid "USERS_FEED"
-msgstr "{name} のフィード"
+msgstr "{name}'s feed"
 
 msgid "USERS_PROFILE_IMAGE"
-msgstr "{name}' のプロフィール画像"
+msgstr "{name}' profile image"
 
-msgid "VIEW_ENTRIES"
-msgstr "エントリーを見る"
+msgid "USERS"
+msgstr "Users"
 
 msgid "VIEW_ENTRIES_ABOUT_WORD"
-msgstr "{word} についてのエントリーを見る"
+msgstr "View entries about {word}"
 
-msgid "YOU_ARE_BLOCKED"
-msgstr "ブロックされています"
+msgid "VIEW_ENTRIES"
+msgstr "View entries"
 
 msgid "YOU_ARE_BLOCKED_SUBTEXT"
-msgstr "{user} をフォローしたりエントリーを見ることができません。"
+msgstr "You can't follow or see {user}'s entries."
+
+msgid "YOU_ARE_BLOCKED"
+msgstr "You're blocked"
