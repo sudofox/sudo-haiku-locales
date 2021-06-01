@@ -4,7 +4,7 @@
   "description": "locales for sudo-haiku",
   "main": "messages.js",
   "scripts": {
-	  "convert": "./convert.sh",
+    "convert": "./convert.sh",
     "clean": "./clean.sh",
     "compile": "node compile.js",
     "test": "echo \"Error: no test specified\" && exit 1"
