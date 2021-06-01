@@ -1,0 +1,33 @@
+msgid "EDIT_PROFILE_INFORMATION"
+msgstr "プロフィールを編集する"
+
+msgid "JUMP_TO_SETTINGS_SECTION"
+msgstr "{section} の項目に移動"
+
+msgid "LAST_PROFILE_SYNC"
+msgstr "最新のプロフィール同期"
+
+msgid "PLAY_STAR_SOUNDS"
+msgstr "スターの音を再生する"
+
+msgid "PREVIEW"
+msgstr "プレビュー"
+
+msgid "PROFILE"
+msgstr "プロフィール"
+
+msgid "SECTION_ACCOUNT"
+msgstr "アカウント"
+
+msgid "SECTION_STARS"
+msgstr "スター"
+
+msgid "SETTINGS"
+msgstr "設定"
+
+msgid "SYNC_DATA_EXPLANATION"
+msgstr "名前と自己紹介をはてなプロフィールから取得します。"
+
+msgid "SYNC_PROFILE_FROM_HATENA"
+msgstr "今すぐ取得"
+

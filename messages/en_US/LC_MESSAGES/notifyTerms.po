@@ -1,0 +1,36 @@
+msgid "ADDED_YOU_TO_THEIR_FAVORITES"
+msgstr " added you to their favorites"
+
+msgid "AND"
+msgstr " and "
+
+msgid "COMMA_AND"
+msgstr ", and "
+
+msgid "COMMA"
+msgstr ", "
+
+msgid "COMMENTED_ON"
+msgstr " commented on "
+
+msgid "INTERACTED_WITH"
+msgstr " interacted with "
+
+msgid "OTHER_PEOPLE"
+msgstr " other people"
+
+msgid "REPLIED_TO"
+msgstr " replied to "
+
+msgid "SENT_YOU_AN_ID_CALL_ON"
+msgstr " sent you an ID call on "
+
+msgid "USER_HONORIFIC"
+msgstr ""
+
+msgid "YOUR_ENTRY"
+msgstr "your entry "
+
+msgid "YOUR"
+msgstr "your "
+

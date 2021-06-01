@@ -1,0 +1,33 @@
+msgid "EDIT_PROFILE_INFORMATION"
+msgstr "Edit your profile details"
+
+msgid "JUMP_TO_SETTINGS_SECTION"
+msgstr "Jump to {section} section"
+
+msgid "LAST_PROFILE_SYNC"
+msgstr "Last Profile Sync"
+
+msgid "PLAY_STAR_SOUNDS"
+msgstr "Play Star sounds"
+
+msgid "PREVIEW"
+msgstr "Preview"
+
+msgid "PROFILE"
+msgstr "Profile"
+
+msgid "SECTION_ACCOUNT"
+msgstr "Account"
+
+msgid "SECTION_STARS"
+msgstr "Stars"
+
+msgid "SETTINGS"
+msgstr "Settings"
+
+msgid "SYNC_DATA_EXPLANATION"
+msgstr "Your profile name and description will match what's written on your Hatena Profile."
+
+msgid "SYNC_PROFILE_FROM_HATENA"
+msgstr "Sync now"
+

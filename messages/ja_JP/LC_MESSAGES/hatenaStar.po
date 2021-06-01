@@ -1,0 +1,9 @@
+msgid "ADD_STAR_BUTTON"
+msgstr "スター追加ボタン"
+
+msgid "ADD_STAR"
+msgstr "スターを追加"
+
+msgid "EXPAND_COLLAPSED_STARS"
+msgstr "展開"
+

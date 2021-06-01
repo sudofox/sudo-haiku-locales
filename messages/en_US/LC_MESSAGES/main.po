@@ -1,0 +1,119 @@
+msgid "ACCOUNT_IS_BLOCKED_SUBTEXT"
+msgstr "Do you still want to view these entries? Viewing them won't unblock {user}."
+
+msgid "ACCOUNT_IS_BLOCKED"
+msgstr "{user} is blocked"
+
+msgid "ACCOUNT_IS_MUTED"
+msgstr "You've muted entries from this user."
+
+msgid "ADD_TO_FAVORITES"
+msgstr "Add to favorites"
+
+msgid "ALBUM"
+msgstr "Album"
+
+msgid "BLOCK_USER"
+msgstr "Block {user}"
+
+msgid "BLOCKED"
+msgstr "Blocked"
+
+msgid "CONTINUE_AS_USER"
+msgstr "Continue as {name}"
+
+msgid "ENTRIES"
+msgstr "Entries"
+
+msgid "EVERYBODY_HAIKU"
+msgstr "Everybody Haiku!"
+
+msgid "FAVORITE_KEYWORDS"
+msgstr "Favorite Keywords"
+
+msgid "HATENA_BLOG_TAG_ABOUT_WORD"
+msgstr "What is {word}?"
+
+msgid "HATENA_BLOG_TAG"
+msgstr "Hatena Blog Tags"
+
+msgid "HOT_KEYWORDS"
+msgstr "Hot Keywords"
+
+msgid "KEYWORD_IS_MUTED"
+msgstr "You've muted entries from this keyword."
+
+msgid "KEYWORDS"
+msgstr "Keywords"
+
+msgid "LATEST_POSTS"
+msgstr "Latest Posts"
+
+msgid "LEARN_MORE"
+msgstr "Learn more"
+
+msgid "LOGIN_WITH_HATENA"
+msgstr "Login with Hatena ID"
+
+msgid "MUTE_THING"
+msgstr "Mute {thing}"
+
+msgid "MUTE"
+msgstr "Mute"
+
+msgid "NEW_HATENA_BLOG_ENTRY_ABOUT_WORD"
+msgstr "Write a blog about {word}"
+
+msgid "NO_BLOG_TAG_DATA_AVAILABLE"
+msgstr "No information available for this keyword"
+
+msgid "READ_ABOUT_WORD_ON_HATENA_BLOG_TAG"
+msgstr "Read about {word}"
+
+msgid "READ_MORE"
+msgstr "Read more…"
+
+msgid "RECENT_USERS"
+msgstr "Recent Users"
+
+msgid "RELATED_KEYWORDS"
+msgstr "Related Keywords"
+
+msgid "REMOVE_FROM_FAVORITES"
+msgstr "Remove from favorites"
+
+msgid "SETTINGS"
+msgstr "Settings"
+
+msgid "UNBLOCK_USER"
+msgstr "Unblock {user}"
+
+msgid "UNMUTE_THING"
+msgstr "Unmute {thing}"
+
+msgid "UNMUTE"
+msgstr "Unmute"
+
+msgid "USERS_ENTRY"
+msgstr "{name}'s entry"
+
+msgid "USERS_FEED"
+msgstr "{name}'s feed"
+
+msgid "USERS_PROFILE_IMAGE"
+msgstr "{name}' profile image"
+
+msgid "USERS"
+msgstr "Users"
+
+msgid "VIEW_ENTRIES_ABOUT_WORD"
+msgstr "View entries about {word}"
+
+msgid "VIEW_ENTRIES"
+msgstr "View entries"
+
+msgid "YOU_ARE_BLOCKED_SUBTEXT"
+msgstr "You can't follow or see {user}'s entries."
+
+msgid "YOU_ARE_BLOCKED"
+msgstr "You're blocked"

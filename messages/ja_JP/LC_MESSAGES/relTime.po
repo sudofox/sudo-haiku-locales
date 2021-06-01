@@ -1,0 +1,17 @@
+msgid "minute"
+msgstr "ちょうど今"
+
+msgid "minutes"
+msgstr "${time}分"
+
+msgid "hour"
+msgstr "${time}時間"
+
+msgid "hours"
+msgstr "${time}時間"
+
+msgid "day"
+msgstr "昨日"
+
+msgid "days"
+msgstr "${time}日間"

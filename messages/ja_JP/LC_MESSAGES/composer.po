@@ -1,0 +1,59 @@
+msgid "ADD_EMOJI"
+msgstr "絵文字を追加"
+
+msgid "ADD_IMAGE"
+msgstr "画像を追加"
+
+msgid "ADD_LINK"
+msgstr "リンクを追加"
+
+msgid "ADD_MENTION"
+msgstr "メンションを追加"
+
+msgid "BOLD"
+msgstr "太字"
+
+msgid "CANCEL"
+msgstr "キャンセル"
+
+msgid "CODE_BLOCK"
+msgstr "Code block"
+
+msgid "DISCARD_THIS_MESSAGE"
+msgstr "このエントリーを破棄しますか？"
+
+msgid "ITALIC"
+msgstr "斜体"
+
+msgid "JUMP_TO_EMOJI_GROUP"
+msgstr "{groupname} にジャンプ"
+
+msgid "KEYWORD_PLACEHOLDER"
+msgstr "キーワード (オプション)"
+
+msgid "POST"
+msgstr "投稿"
+
+msgid "POSTING"
+msgstr "投稿中"
+
+msgid "SELECT_EMOJI_NAME"
+msgstr "絵文字 {emoji} を挿入"
+
+msgid "STRIKETHROUGH"
+msgstr "打ち消し線"
+
+msgid "TEXT_PLACEHOLDER_1"
+msgstr "なにか起きた？"
+
+msgid "TEXT_PLACEHOLDER_2"
+msgstr "今日はどんな感じ？"
+
+msgid "TEXT_PLACEHOLDER_3"
+msgstr "なにか考え中？"
+
+msgid "TEXT_PLACEHOLDER_4"
+msgstr "今なにかしてる？"
+
+msgid "UNDERLINE"
+msgstr "下線"

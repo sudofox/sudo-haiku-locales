@@ -1,0 +1,27 @@
+msgid "ANTENNA"
+msgstr "アンテナ"
+
+msgid "HELP"
+msgstr "ヘルプ"
+
+msgid "MY_HATENA"
+msgstr "Myはてな"
+
+msgid "MY_PAGE"
+msgstr "マイページ"
+
+msgid "PROFILE"
+msgstr "プロフィール"
+
+msgid "RECENT"
+msgstr "最新の投稿"
+
+msgid "SEARCH"
+msgstr "検索"
+
+msgid "SERVICES_USED"
+msgstr "利用中のサービス"
+
+msgid "SETTINGS"
+msgstr "設定"
+

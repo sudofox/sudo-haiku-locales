@@ -1,0 +1,2 @@
+msgid "NEW_ENTRY_MODAL"
+msgstr "Show {count} new entry|Show {count} new entries"

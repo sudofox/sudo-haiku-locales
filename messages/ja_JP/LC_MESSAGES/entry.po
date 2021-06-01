@@ -1,0 +1,15 @@
+msgid "ACCESS_LIMITED"
+msgstr "このアカウントはエントリーを見られる人を制限しているため、エントリーを表示できません。"
+
+msgid "DELETE_THIS_ENTRY_CONFIRM"
+msgstr "このエントリーを削除しますか？"
+
+msgid "ENTRY_DELETED"
+msgstr "このエントリーは削除済みです。"
+
+msgid "REPLY"
+msgstr "返信"
+
+msgid "SHOW_REPLIES"
+msgstr "返信を表示"
+

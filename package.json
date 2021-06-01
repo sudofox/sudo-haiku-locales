@@ -1,0 +1,22 @@
+{
+  "name": "sudo-haiku-locales",
+  "version": "1.0.0",
+  "description": "locales for sudo-haiku",
+  "main": "messages.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudofox/sudo-haiku-locales.git"
+  },
+  "author": "sudofox",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/sudofox/sudo-haiku-locales/issues"
+  },
+  "homepage": "https://github.com/sudofox/sudo-haiku-locales#readme",
+  "dependencies": {
+    "gettext-parser": "^4.0.4"
+  }
+}

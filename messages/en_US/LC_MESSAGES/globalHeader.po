@@ -1,0 +1,27 @@
+msgid "ANTENNA"
+msgstr "Antenna"
+
+msgid "HELP"
+msgstr "Help"
+
+msgid "MY_HATENA"
+msgstr "My Hatena"
+
+msgid "MY_PAGE"
+msgstr "My Page"
+
+msgid "PROFILE"
+msgstr "Profile"
+
+msgid "RECENT"
+msgstr "Recent"
+
+msgid "SEARCH"
+msgstr "Search"
+
+msgid "SERVICES_USED"
+msgstr "Services used"
+
+msgid "SETTINGS"
+msgstr "Settings"
+

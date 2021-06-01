@@ -1,0 +1,2 @@
+msgid "NEW_ENTRY_MODAL"
+msgstr "{count} 件の新しいエントリーを表示|{count} 件の新しいエントリーを表示"

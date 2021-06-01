@@ -1,0 +1,2 @@
+msgid "NOT_READY_TO_LOAD"
+msgstr "Not ready to load (canLoad = false)"

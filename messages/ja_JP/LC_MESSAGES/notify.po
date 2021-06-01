@@ -1,0 +1,2 @@
+msgid "NOTIFICATIONS"
+msgstr "通知"
