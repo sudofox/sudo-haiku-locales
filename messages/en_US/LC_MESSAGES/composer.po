@@ -1,59 +1,81 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"#-#-#-#-#  composer.po  #-#-#-#-#\n"
+"#-#-#-#-#  composer.po  #-#-#-#-#\n"
+"#-#-#-#-#  composer.po  #-#-#-#-#\n"
+"#-#-#-#-#  composer.po  #-#-#-#-#\n"
+"Language: en_US\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  composer.po  #-#-#-#-#\n"
+"Language: ja_JP\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  composer.po  #-#-#-#-#\n"
+"Language: ja_JP\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  composer.po  #-#-#-#-#\n"
+"Language: ja_JP\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  composer.po  #-#-#-#-#\n"
+"Language: ja_JP\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "ADD_EMOJI"
-msgstr "Add emoji"
+msgstr "絵文字を追加"
 
 msgid "ADD_IMAGE"
-msgstr "Add image"
+msgstr "画像を追加"
 
 msgid "ADD_LINK"
-msgstr "Add link"
+msgstr "リンクを追加"
 
 msgid "ADD_MENTION"
-msgstr "Add mention"
+msgstr "メンションを追加"
 
 msgid "BOLD"
-msgstr "Bold"
+msgstr "太字"
 
 msgid "CANCEL"
-msgstr "Cancel"
+msgstr "キャンセル"
 
 msgid "CODE_BLOCK"
 msgstr "Code block"
 
 msgid "DISCARD_THIS_MESSAGE"
-msgstr "Discard this message?"
+msgstr "このエントリーを破棄しますか？"
 
 msgid "ITALIC"
-msgstr "Italic"
+msgstr "斜体"
 
 msgid "JUMP_TO_EMOJI_GROUP"
-msgstr "Jump to {groupname}"
+msgstr "{groupname} にジャンプ"
 
 msgid "KEYWORD_PLACEHOLDER"
-msgstr "Keyword (optional)"
+msgstr "キーワード (オプション)"
 
 msgid "POST"
-msgstr "Post"
+msgstr "投稿"
 
 msgid "POSTING"
-msgstr "Posting"
+msgstr "投稿中"
 
 msgid "SELECT_EMOJI_NAME"
-msgstr "Insert {emoji} emoji"
+msgstr "絵文字 {emoji} を挿入"
 
 msgid "STRIKETHROUGH"
-msgstr "Strikethrough"
+msgstr "打ち消し線"
 
 msgid "TEXT_PLACEHOLDER_1"
-msgstr "What's happening?"
+msgstr "なにか起きた？"
 
 msgid "TEXT_PLACEHOLDER_2"
-msgstr "How's your day going?"
+msgstr "今日はどんな感じ？"
 
 msgid "TEXT_PLACEHOLDER_3"
-msgstr "What's on your mind?"
+msgstr "なにか考え中？"
 
 msgid "TEXT_PLACEHOLDER_4"
-msgstr "What are you up to?"
+msgstr "今なにかしてる？"
 
 msgid "UNDERLINE"
-msgstr "Underline"
+msgstr "下線"

@@ -4,8 +4,10 @@
   "description": "locales for sudo-haiku",
   "main": "messages.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "compile": "node compile.js"
+	  "convert": "./convert.sh",
+    "clean": "./clean.sh",
+    "compile": "node compile.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",

@@ -1,8 +1,13 @@
-msgid "ACCOUNT_IS_BLOCKED_SUBTEXT"
-msgstr "エントリーを見ますか？ エントリーを見るボタンを押しても {user} のブロックは解除されません。"
+msgid ""
+msgstr ""
+"Language: ja_JP\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "ACCOUNT_IS_BLOCKED"
 msgstr "{user} はブロック中です"
+
+msgid "ACCOUNT_IS_BLOCKED_SUBTEXT"
+msgstr "エントリーを見ますか？ エントリーを見るボタンを押しても {user} のブロックは解除されません。"
 
 msgid "ACCOUNT_IS_MUTED"
 msgstr "このユーザーのエントリーはミュート中です。"
@@ -13,11 +18,11 @@ msgstr "お気に入りに追加"
 msgid "ALBUM"
 msgstr "アルバム"
 
-msgid "BLOCK_USER"
-msgstr "{user} をブロックする"
-
 msgid "BLOCKED"
 msgstr "ブロック中"
+
+msgid "BLOCK_USER"
+msgstr "{user} をブロックする"
 
 msgid "CONTINUE_AS_USER"
 msgstr "{name} としてログイン"
@@ -31,20 +36,20 @@ msgstr "みんなでハイク"
 msgid "FAVORITE_KEYWORDS"
 msgstr "お気に入りキーワード"
 
-msgid "HATENA_BLOG_TAG_ABOUT_WORD"
-msgstr "{word}とは？"
-
 msgid "HATENA_BLOG_TAG"
 msgstr "はてなブログ タグ"
+
+msgid "HATENA_BLOG_TAG_ABOUT_WORD"
+msgstr "{word}とは？"
 
 msgid "HOT_KEYWORDS"
 msgstr "注目のキーワード"
 
-msgid "KEYWORD_IS_MUTED"
-msgstr "このキーワードのエントリーはミュート中です。"
-
 msgid "KEYWORDS"
 msgstr "キーワード"
+
+msgid "KEYWORD_IS_MUTED"
+msgstr "このキーワードのエントリーはミュート中です。"
 
 msgid "LATEST_POSTS"
 msgstr "最新の投稿"
@@ -55,11 +60,11 @@ msgstr "くわしく見る"
 msgid "LOGIN_WITH_HATENA"
 msgstr "はてなIDでログイン"
 
-msgid "MUTE_THING"
-msgstr "{thing} をミュートする"
-
 msgid "MUTE"
 msgstr "ミュート"
+
+msgid "MUTE_THING"
+msgstr "{thing} をミュートする"
 
 msgid "NEW_HATENA_BLOG_ENTRY_ABOUT_WORD"
 msgstr "{word} タグをつけて記事を書く"
@@ -88,11 +93,14 @@ msgstr "設定"
 msgid "UNBLOCK_USER"
 msgstr "{user} のブロックを解除"
 
+msgid "UNMUTE"
+msgstr "ミュートを解除"
+
 msgid "UNMUTE_THING"
 msgstr "{thing} のミュートを解除"
 
-msgid "UNMUTE"
-msgstr "ミュートを解除"
+msgid "USERS"
+msgstr "ユーザー"
 
 msgid "USERS_ENTRY"
 msgstr "{name} のエントリー"
@@ -103,17 +111,14 @@ msgstr "{name} のフィード"
 msgid "USERS_PROFILE_IMAGE"
 msgstr "{name}' のプロフィール画像"
 
-msgid "USERS"
-msgstr "ユーザー"
+msgid "VIEW_ENTRIES"
+msgstr "エントリーを見る"
 
 msgid "VIEW_ENTRIES_ABOUT_WORD"
 msgstr "{word} についてのエントリーを見る"
 
-msgid "VIEW_ENTRIES"
-msgstr "エントリーを見る"
+msgid "YOU_ARE_BLOCKED"
+msgstr "ブロックされています"
 
 msgid "YOU_ARE_BLOCKED_SUBTEXT"
 msgstr "{user} をフォローしたりエントリーを見ることができません。"
-
-msgid "YOU_ARE_BLOCKED"
-msgstr "ブロックされています"

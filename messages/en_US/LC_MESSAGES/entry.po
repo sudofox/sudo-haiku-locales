@@ -1,15 +1,36 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"#-#-#-#-#  entry.po  #-#-#-#-#\n"
+"#-#-#-#-#  entry.po  #-#-#-#-#\n"
+"#-#-#-#-#  entry.po  #-#-#-#-#\n"
+"#-#-#-#-#  entry.po  #-#-#-#-#\n"
+"Language: en_US\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  entry.po  #-#-#-#-#\n"
+"Language: ja_JP\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  entry.po  #-#-#-#-#\n"
+"Language: ja_JP\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  entry.po  #-#-#-#-#\n"
+"Language: ja_JP\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  entry.po  #-#-#-#-#\n"
+"Language: ja_JP\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "ACCESS_LIMITED"
-msgstr "You're unable to view this entry because the account owner limits who can view their entries."
+msgstr "このアカウントはエントリーを見られる人を制限しているため、エントリーを表示できません。"
 
 msgid "DELETE_THIS_ENTRY_CONFIRM"
-msgstr "Do you want to delete this entry?"
+msgstr "このエントリーを削除しますか？"
 
 msgid "ENTRY_DELETED"
-msgstr "This entry has been deleted."
+msgstr "このエントリーは削除済みです。"
 
 msgid "REPLY"
-msgstr "Reply"
+msgstr "返信"
 
 msgid "SHOW_REPLIES"
-msgstr "Show repies"
-
+msgstr "返信を表示"

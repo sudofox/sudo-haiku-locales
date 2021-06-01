@@ -1,2 +1,7 @@
+msgid ""
+msgstr ""
+"Language: ja_JP\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "NEW_ENTRY_MODAL"
 msgstr "{count} 件の新しいエントリーを表示|{count} 件の新しいエントリーを表示"

@@ -147,6 +147,7 @@ export const messages = {
   },
   "ja": {
     "composer": {
+      "": "Language: ja_JP\nContent-Type: text/plain; charset=UTF-8\n",
       "ADD_EMOJI": "絵文字を追加",
       "ADD_IMAGE": "画像を追加",
       "ADD_LINK": "リンクを追加",

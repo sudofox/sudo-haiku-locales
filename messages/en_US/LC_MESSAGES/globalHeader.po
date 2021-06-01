@@ -1,27 +1,48 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"#-#-#-#-#  globalHeader.po  #-#-#-#-#\n"
+"#-#-#-#-#  globalHeader.po  #-#-#-#-#\n"
+"#-#-#-#-#  globalHeader.po  #-#-#-#-#\n"
+"#-#-#-#-#  globalHeader.po  #-#-#-#-#\n"
+"Language: en_US\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  globalHeader.po  #-#-#-#-#\n"
+"Language: ja_JP\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  globalHeader.po  #-#-#-#-#\n"
+"Language: ja_JP\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  globalHeader.po  #-#-#-#-#\n"
+"Language: ja_JP\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  globalHeader.po  #-#-#-#-#\n"
+"Language: ja_JP\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "ANTENNA"
-msgstr "Antenna"
+msgstr "アンテナ"
 
 msgid "HELP"
-msgstr "Help"
+msgstr "ヘルプ"
 
 msgid "MY_HATENA"
-msgstr "My Hatena"
+msgstr "Myはてな"
 
 msgid "MY_PAGE"
-msgstr "My Page"
+msgstr "マイページ"
 
 msgid "PROFILE"
-msgstr "Profile"
+msgstr "プロフィール"
 
 msgid "RECENT"
-msgstr "Recent"
+msgstr "最新の投稿"
 
 msgid "SEARCH"
-msgstr "Search"
+msgstr "検索"
 
 msgid "SERVICES_USED"
-msgstr "Services used"
+msgstr "利用中のサービス"
 
 msgid "SETTINGS"
-msgstr "Settings"
-
+msgstr "設定"

@@ -1,119 +1,141 @@
-msgid "ACCOUNT_IS_BLOCKED_SUBTEXT"
-msgstr "Do you still want to view these entries? Viewing them won't unblock {user}."
+#, fuzzy
+msgid ""
+msgstr ""
+"#-#-#-#-#  main.po  #-#-#-#-#\n"
+"#-#-#-#-#  main.po  #-#-#-#-#\n"
+"#-#-#-#-#  main.po  #-#-#-#-#\n"
+"#-#-#-#-#  main.po  #-#-#-#-#\n"
+"Language: en_US\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  main.po  #-#-#-#-#\n"
+"Language: ja_JP\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  main.po  #-#-#-#-#\n"
+"Language: ja_JP\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  main.po  #-#-#-#-#\n"
+"Language: ja_JP\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  main.po  #-#-#-#-#\n"
+"Language: ja_JP\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "ACCOUNT_IS_BLOCKED"
-msgstr "{user} is blocked"
+msgstr "{user} はブロック中です"
+
+msgid "ACCOUNT_IS_BLOCKED_SUBTEXT"
+msgstr "エントリーを見ますか？ エントリーを見るボタンを押しても {user} のブロックは解除されません。"
 
 msgid "ACCOUNT_IS_MUTED"
-msgstr "You've muted entries from this user."
+msgstr "このユーザーのエントリーはミュート中です。"
 
 msgid "ADD_TO_FAVORITES"
-msgstr "Add to favorites"
+msgstr "お気に入りに追加"
 
 msgid "ALBUM"
-msgstr "Album"
-
-msgid "BLOCK_USER"
-msgstr "Block {user}"
+msgstr "アルバム"
 
 msgid "BLOCKED"
-msgstr "Blocked"
+msgstr "ブロック中"
+
+msgid "BLOCK_USER"
+msgstr "{user} をブロックする"
 
 msgid "CONTINUE_AS_USER"
-msgstr "Continue as {name}"
+msgstr "{name} としてログイン"
 
 msgid "ENTRIES"
-msgstr "Entries"
+msgstr "エントリー"
 
 msgid "EVERYBODY_HAIKU"
-msgstr "Everybody Haiku!"
+msgstr "みんなでハイク"
 
 msgid "FAVORITE_KEYWORDS"
-msgstr "Favorite Keywords"
-
-msgid "HATENA_BLOG_TAG_ABOUT_WORD"
-msgstr "What is {word}?"
+msgstr "お気に入りキーワード"
 
 msgid "HATENA_BLOG_TAG"
-msgstr "Hatena Blog Tags"
+msgstr "はてなブログ タグ"
+
+msgid "HATENA_BLOG_TAG_ABOUT_WORD"
+msgstr "{word}とは？"
 
 msgid "HOT_KEYWORDS"
-msgstr "Hot Keywords"
-
-msgid "KEYWORD_IS_MUTED"
-msgstr "You've muted entries from this keyword."
+msgstr "注目のキーワード"
 
 msgid "KEYWORDS"
-msgstr "Keywords"
+msgstr "キーワード"
+
+msgid "KEYWORD_IS_MUTED"
+msgstr "このキーワードのエントリーはミュート中です。"
 
 msgid "LATEST_POSTS"
-msgstr "Latest Posts"
+msgstr "最新の投稿"
 
 msgid "LEARN_MORE"
-msgstr "Learn more"
+msgstr "くわしく見る"
 
 msgid "LOGIN_WITH_HATENA"
-msgstr "Login with Hatena ID"
-
-msgid "MUTE_THING"
-msgstr "Mute {thing}"
+msgstr "はてなIDでログイン"
 
 msgid "MUTE"
-msgstr "Mute"
+msgstr "ミュート"
+
+msgid "MUTE_THING"
+msgstr "{thing} をミュートする"
 
 msgid "NEW_HATENA_BLOG_ENTRY_ABOUT_WORD"
-msgstr "Write a blog about {word}"
+msgstr "{word} タグをつけて記事を書く"
 
 msgid "NO_BLOG_TAG_DATA_AVAILABLE"
-msgstr "No information available for this keyword"
+msgstr "このキーワードの情報はありませんでした"
 
 msgid "READ_ABOUT_WORD_ON_HATENA_BLOG_TAG"
-msgstr "Read about {word}"
+msgstr "{word} について読む"
 
 msgid "READ_MORE"
-msgstr "Read more…"
+msgstr "もっと見る…"
 
 msgid "RECENT_USERS"
-msgstr "Recent Users"
+msgstr "ユーザー一覧"
 
 msgid "RELATED_KEYWORDS"
-msgstr "Related Keywords"
+msgstr "関連キーワード"
 
 msgid "REMOVE_FROM_FAVORITES"
-msgstr "Remove from favorites"
+msgstr "お気に入りから削除"
 
 msgid "SETTINGS"
-msgstr "Settings"
+msgstr "設定"
 
 msgid "UNBLOCK_USER"
-msgstr "Unblock {user}"
-
-msgid "UNMUTE_THING"
-msgstr "Unmute {thing}"
+msgstr "{user} のブロックを解除"
 
 msgid "UNMUTE"
-msgstr "Unmute"
+msgstr "ミュートを解除"
 
-msgid "USERS_ENTRY"
-msgstr "{name}'s entry"
-
-msgid "USERS_FEED"
-msgstr "{name}'s feed"
-
-msgid "USERS_PROFILE_IMAGE"
-msgstr "{name}' profile image"
+msgid "UNMUTE_THING"
+msgstr "{thing} のミュートを解除"
 
 msgid "USERS"
-msgstr "Users"
+msgstr "ユーザー"
 
-msgid "VIEW_ENTRIES_ABOUT_WORD"
-msgstr "View entries about {word}"
+msgid "USERS_ENTRY"
+msgstr "{name} のエントリー"
+
+msgid "USERS_FEED"
+msgstr "{name} のフィード"
+
+msgid "USERS_PROFILE_IMAGE"
+msgstr "{name}' のプロフィール画像"
 
 msgid "VIEW_ENTRIES"
-msgstr "View entries"
+msgstr "エントリーを見る"
 
-msgid "YOU_ARE_BLOCKED_SUBTEXT"
-msgstr "You can't follow or see {user}'s entries."
+msgid "VIEW_ENTRIES_ABOUT_WORD"
+msgstr "{word} についてのエントリーを見る"
 
 msgid "YOU_ARE_BLOCKED"
-msgstr "You're blocked"
+msgstr "ブロックされています"
+
+msgid "YOU_ARE_BLOCKED_SUBTEXT"
+msgstr "{user} をフォローしたりエントリーを見ることができません。"

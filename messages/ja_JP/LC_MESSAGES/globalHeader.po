@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: ja_JP\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "ANTENNA"
 msgstr "アンテナ"
 
@@ -24,4 +29,3 @@ msgstr "利用中のサービス"
 
 msgid "SETTINGS"
 msgstr "設定"
-

@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: ja_JP\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "ACCESS_LIMITED"
 msgstr "このアカウントはエントリーを見られる人を制限しているため、エントリーを表示できません。"
 
@@ -12,4 +17,3 @@ msgstr "返信"
 
 msgid "SHOW_REPLIES"
 msgstr "返信を表示"
-
