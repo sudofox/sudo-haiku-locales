@@ -9,11 +9,11 @@ msgstr " added you to their favorites"
 msgid "AND"
 msgstr " and "
 
-msgid "COMMA_AND"
-msgstr ", and "
-
 msgid "COMMA"
 msgstr ", "
+
+msgid "COMMA_AND"
+msgstr ", and "
 
 msgid "COMMENTED_ON"
 msgstr " commented on "
@@ -33,9 +33,8 @@ msgstr " sent you an ID call on "
 msgid "USER_HONORIFIC"
 msgstr ""
 
-msgid "YOUR_ENTRY"
-msgstr "your entry "
-
 msgid "YOUR"
 msgstr "your "
 
+msgid "YOUR_ENTRY"
+msgstr "your entry "

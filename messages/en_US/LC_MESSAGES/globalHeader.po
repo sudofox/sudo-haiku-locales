@@ -24,4 +24,3 @@ msgstr "Services used"
 
 msgid "SETTINGS"
 msgstr "Settings"
-

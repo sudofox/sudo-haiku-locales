@@ -35,4 +35,3 @@ msgstr "Your profile name and description will match what's written on your Hate
 
 msgid "SYNC_PROFILE_FROM_HATENA"
 msgstr "Sync now"
-

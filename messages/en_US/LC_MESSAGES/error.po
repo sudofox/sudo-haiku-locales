@@ -15,11 +15,11 @@ msgstr "Entry cannot be blank"
 msgid "MISSING_PARAM"
 msgstr "Missing parameter"
 
-msgid "NO_PERMISSION"
-msgstr "You don't have permission to do that"
-
 msgid "NOT_FOUND"
 msgstr "Not found"
+
+msgid "NO_PERMISSION"
+msgstr "You don't have permission to do that"
 
 msgid "PARENT_ENTRY_REMOVED"
 msgstr "The entry you replied to no longer exists"
@@ -32,4 +32,3 @@ msgstr "JWT token is expired"
 
 msgid "TOKEN_MISSING"
 msgstr "JWT token is missing"
-

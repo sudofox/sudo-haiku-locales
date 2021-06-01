@@ -17,4 +17,3 @@ msgstr "Reply"
 
 msgid "SHOW_REPLIES"
 msgstr "Show repies"
-

@@ -3,11 +3,11 @@ msgstr ""
 "Language: en_US\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "ADD_STAR_BUTTON"
-msgstr "Add Star button"
-
 msgid "ADD_STAR"
 msgstr "Add Star"
+
+msgid "ADD_STAR_BUTTON"
+msgstr "Add Star button"
 
 msgid "EXPAND_COLLAPSED_STARS"
 msgstr "Expand"

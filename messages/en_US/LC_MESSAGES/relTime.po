@@ -3,11 +3,11 @@ msgstr ""
 "Language: en_US\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "minute"
-msgstr "just now"
+msgid "day"
+msgstr "yesterday"
 
-msgid "minutes"
-msgstr "${time}m"
+msgid "days"
+msgstr "${time}"
 
 msgid "hour"
 msgstr "${time}h"
@@ -15,9 +15,8 @@ msgstr "${time}h"
 msgid "hours"
 msgstr "${time}h"
 
-msgid "day"
-msgstr "yesterday"
+msgid "minute"
+msgstr "just now"
 
-msgid "days"
-msgstr "${time}"
-
+msgid "minutes"
+msgstr "${time}m"
