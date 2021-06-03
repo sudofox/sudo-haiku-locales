@@ -62,3 +62,6 @@ msgstr "What are you up to?"
 
 msgid "UNDERLINE"
 msgstr "Underline"
+
+msgid "WRITE_HERE"
+msgstr "Write here…"

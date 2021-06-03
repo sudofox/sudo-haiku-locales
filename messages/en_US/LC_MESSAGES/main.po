@@ -24,6 +24,21 @@ msgstr "Blocked"
 msgid "BLOCK_USER"
 msgstr "Block {user}"
 
+msgid "CONFIRM_UNBLOCK"
+msgstr "Unblock {user}?"
+
+msgid "CONFIRM_UNBLOCK_SUBTEXT"
+msgstr "They will be able to follow you and view your entries."
+
+msgid "CONFIRM_UNMUTE"
+msgstr "Are you sure you want to unmute {term}?"
+
+msgid "CONFIRM_UNMUTE_KEYWORD_SUBTEXT"
+msgstr "Entries about {keyword} will become visible on the public timeline."
+
+msgid "CONFIRM_UNMUTE_USER_SUBTEXT"
+msgstr "Entries from {user} will become visible on the public timeline."
+
 msgid "CONTINUE_AS_USER"
 msgstr "Continue as {name}"
 
@@ -89,6 +104,9 @@ msgstr "Remove from favorites"
 
 msgid "SETTINGS"
 msgstr "Settings"
+
+msgid "UNBLOCK"
+msgstr "Unblock"
 
 msgid "UNBLOCK_USER"
 msgstr "Unblock {user}"

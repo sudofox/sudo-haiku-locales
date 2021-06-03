@@ -62,3 +62,6 @@ msgstr "今なにかしてる？"
 
 msgid "UNDERLINE"
 msgstr "下線"
+
+msgid "WRITE_HERE"
+msgstr "Write here…"

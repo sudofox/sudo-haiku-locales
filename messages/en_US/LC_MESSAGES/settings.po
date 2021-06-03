@@ -3,14 +3,35 @@ msgstr ""
 "Language: en_US\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "BLOCKED_USERS"
+msgstr "Blocked users"
+
 msgid "EDIT_PROFILE_INFORMATION"
 msgstr "Edit your profile details"
+
+msgid "FURIGANA_MODE"
+msgstr "Furigana mode"
+
+msgid "HIRAGANA"
+msgstr "Hiragana"
 
 msgid "JUMP_TO_SETTINGS_SECTION"
 msgstr "Jump to {section} section"
 
+msgid "KANA"
+msgstr "Kana"
+
+msgid "KATAKANA"
+msgstr "Katakana"
+
 msgid "LAST_PROFILE_SYNC"
 msgstr "Last Profile Sync"
+
+msgid "MUTED_KEYWORDS"
+msgstr "Muted keywords"
+
+msgid "MUTED_USERS"
+msgstr "Muted users"
 
 msgid "PLAY_STAR_SOUNDS"
 msgstr "Play Star sounds"
@@ -21,14 +42,26 @@ msgstr "Preview"
 msgid "PROFILE"
 msgstr "Profile"
 
+msgid "ROMAJI"
+msgstr "Romaji"
+
+msgid "SECTION_A11Y"
+msgstr "Accessibility"
+
 msgid "SECTION_ACCOUNT"
 msgstr "Account"
+
+msgid "SECTION_SAFETY"
+msgstr "Safety"
 
 msgid "SECTION_STARS"
 msgstr "Stars"
 
 msgid "SETTINGS"
 msgstr "Settings"
+
+msgid "SHOW_FURIGANA"
+msgstr "Show furigana above text"
 
 msgid "SYNC_DATA_EXPLANATION"
 msgstr "Your profile name and description will match what's written on your Hatena Profile."

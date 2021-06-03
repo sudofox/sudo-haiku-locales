@@ -21,5 +21,6 @@
   "homepage": "https://github.com/sudofox/sudo-haiku-locales#readme",
   "dependencies": {
     "gettext-parser": "^4.0.4"
-  }
+  },
+  "private": true
 }

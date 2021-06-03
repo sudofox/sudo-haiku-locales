@@ -3,14 +3,35 @@ msgstr ""
 "Language: ja_JP\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "BLOCKED_USERS"
+msgstr "Blocked users"
+
 msgid "EDIT_PROFILE_INFORMATION"
 msgstr "プロフィールを編集する"
+
+msgid "FURIGANA_MODE"
+msgstr "Furigana mode"
+
+msgid "HIRAGANA"
+msgstr "Hiragana"
 
 msgid "JUMP_TO_SETTINGS_SECTION"
 msgstr "{section} の項目に移動"
 
+msgid "KANA"
+msgstr "Kana"
+
+msgid "KATAKANA"
+msgstr "Katakana"
+
 msgid "LAST_PROFILE_SYNC"
 msgstr "最新のプロフィール同期"
+
+msgid "MUTED_KEYWORDS"
+msgstr "Muted keywords"
+
+msgid "MUTED_USERS"
+msgstr "Muted users"
 
 msgid "PLAY_STAR_SOUNDS"
 msgstr "スターの音を再生する"
@@ -21,14 +42,26 @@ msgstr "プレビュー"
 msgid "PROFILE"
 msgstr "プロフィール"
 
+msgid "ROMAJI"
+msgstr "Romaji"
+
+msgid "SECTION_A11Y"
+msgstr "Accessibility"
+
 msgid "SECTION_ACCOUNT"
 msgstr "アカウント"
+
+msgid "SECTION_SAFETY"
+msgstr "Safety"
 
 msgid "SECTION_STARS"
 msgstr "スター"
 
 msgid "SETTINGS"
 msgstr "設定"
+
+msgid "SHOW_FURIGANA"
+msgstr "Show furigana above text"
 
 msgid "SYNC_DATA_EXPLANATION"
 msgstr "名前と自己紹介をはてなプロフィールから取得します。"

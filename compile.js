@@ -17,17 +17,20 @@ folders.forEach(function (folder) {
 
     let messagePath = localeFolder + folder + "/LC_MESSAGES/";
 
-    let domains = fs.readdirSync(messagePath);
+    let domains = fs.readdirSync(messagePath).filter(fn => fn.endsWith('.po'));
 
     domains.forEach(function (file) {
-        let texts = gettextParser.po.parse(fs.readFileSync(messagePath + "/" + file), "utf8");
+        console.log("Reading " + messagePath + file);
+        let texts = gettextParser.po.parse(fs.readFileSync(messagePath + file), "utf8");
         locales[shortcode][file.slice(0, -3)] = {};
         let translations = texts.translations[''];
         if (typeof translations == "undefined") {
             return;
         }
         Object.entries(translations).forEach(translation => {
-            locales[shortcode][file.slice(0, -3)][translation[1].msgid] = translation[1].msgstr[0];
+            if (translation[1].msgid.length > 0) {
+                locales[shortcode][file.slice(0, -3)][translation[1].msgid] = translation[1].msgstr[0];
+            }
         });
     });
     //console.log("b", locales);
