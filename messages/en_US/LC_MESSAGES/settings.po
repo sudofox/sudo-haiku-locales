@@ -33,6 +33,9 @@ msgstr "Muted keywords"
 msgid "MUTED_USERS"
 msgstr "Muted users"
 
+msgid "NOTHING_HERE"
+msgstr "There's nothing here."
+
 msgid "PLAY_STAR_SOUNDS"
 msgstr "Play Star sounds"
 
