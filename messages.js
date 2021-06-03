@@ -139,7 +139,9 @@ export const messages = {
       "minutes": "${time}m"
     },
     "settings": {
+      "BLOCKED_ON": "Blocked on {date}",
       "BLOCKED_USERS": "Blocked users",
+      "BLOCKED_USERS_EXPLANATION": "Blocked users cannot view, interact with, or follow you.",
       "EDIT_PROFILE_INFORMATION": "Edit your profile details",
       "FURIGANA_MODE": "Furigana mode",
       "HIRAGANA": "Hiragana",
@@ -148,7 +150,10 @@ export const messages = {
       "KATAKANA": "Katakana",
       "LAST_PROFILE_SYNC": "Last Profile Sync",
       "MUTED_KEYWORDS": "Muted keywords",
+      "MUTED_KEYWORDS_EXPLANATION": "Muted keywords will be excluded from the public timeline.",
+      "MUTED_ON": "Muted on {date}",
       "MUTED_USERS": "Muted users",
+      "MUTED_USERS_EXPLANATION": "Muted users will not be shown on the public timeline, but you can still view their entries directly.",
       "NOTHING_HERE": "There's nothing here.",
       "PLAY_STAR_SOUNDS": "Play Star sounds",
       "PREVIEW": "Preview",
@@ -303,7 +308,9 @@ export const messages = {
       "minutes": "${time}分"
     },
     "settings": {
+      "BLOCKED_ON": "Blocked on {date}",
       "BLOCKED_USERS": "Blocked users",
+      "BLOCKED_USERS_EXPLANATION": "Blocked users cannot view, interact with, or follow you.",
       "EDIT_PROFILE_INFORMATION": "プロフィールを編集する",
       "FURIGANA_MODE": "Furigana mode",
       "HIRAGANA": "Hiragana",
@@ -312,7 +319,10 @@ export const messages = {
       "KATAKANA": "Katakana",
       "LAST_PROFILE_SYNC": "最新のプロフィール同期",
       "MUTED_KEYWORDS": "Muted keywords",
+      "MUTED_KEYWORDS_EXPLANATION": "Muted keywords will be excluded from the public timeline.",
+      "MUTED_ON": "Muted on {date}",
       "MUTED_USERS": "Muted users",
+      "MUTED_USERS_EXPLANATION": "Muted users will not be shown on the public timeline, but you can still view their entries directly.",
       "NOTHING_HERE": "There's nothing here.",
       "PLAY_STAR_SOUNDS": "スターの音を再生する",
       "PREVIEW": "プレビュー",

@@ -3,8 +3,14 @@ msgstr ""
 "Language: ja_JP\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "BLOCKED_ON"
+msgstr "Blocked on {date}"
+
 msgid "BLOCKED_USERS"
 msgstr "Blocked users"
+
+msgid "BLOCKED_USERS_EXPLANATION"
+msgstr "Blocked users cannot view, interact with, or follow you."
 
 msgid "EDIT_PROFILE_INFORMATION"
 msgstr "プロフィールを編集する"
@@ -30,8 +36,17 @@ msgstr "最新のプロフィール同期"
 msgid "MUTED_KEYWORDS"
 msgstr "Muted keywords"
 
+msgid "MUTED_KEYWORDS_EXPLANATION"
+msgstr "Muted keywords will be excluded from the public timeline."
+
+msgid "MUTED_ON"
+msgstr "Muted on {date}"
+
 msgid "MUTED_USERS"
 msgstr "Muted users"
+
+msgid "MUTED_USERS_EXPLANATION"
+msgstr "Muted users will not be shown on the public timeline, but you can still view their entries directly."
 
 msgid "NOTHING_HERE"
 msgstr "There's nothing here."
