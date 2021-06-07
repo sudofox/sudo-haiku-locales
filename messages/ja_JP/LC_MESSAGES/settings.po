@@ -12,6 +12,9 @@ msgstr "Blocked users"
 msgid "BLOCKED_USERS_EXPLANATION"
 msgstr "Blocked users cannot view, interact with, or follow you."
 
+msgid "CONFIRM_LOGOUT"
+msgstr "Are you sure you want to logout?"
+
 msgid "EDIT_PROFILE_INFORMATION"
 msgstr "プロフィールを編集する"
 
@@ -30,8 +33,21 @@ msgstr "Kana"
 msgid "KATAKANA"
 msgstr "Katakana"
 
+msgid "LANGUAGE"
+msgstr "Language"
+
+# Do not translate LANG_* strings
+msgid "LANG_ENGLISH"
+msgstr "English"
+
+msgid "LANG_JAPANESE"
+msgstr "日本語"
+
 msgid "LAST_PROFILE_SYNC"
 msgstr "最新のプロフィール同期"
+
+msgid "LOGOUT"
+msgstr "Log Out"
 
 msgid "MUTED_KEYWORDS"
 msgstr "Muted keywords"
