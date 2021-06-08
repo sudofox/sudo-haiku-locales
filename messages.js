@@ -71,6 +71,7 @@ export const messages = {
       "ACCOUNT_IS_MUTED": "You've muted entries from this user.",
       "ADD_TO_FAVORITES": "Add to favorites",
       "ALBUM": "Album",
+      "ANTENNA": "Antenna",
       "BLOCKED": "Blocked",
       "BLOCK_USER": "Block {user}",
       "CONFIRM_UNBLOCK": "Unblock {user}?",
@@ -110,6 +111,7 @@ export const messages = {
       "USERS_PROFILE_IMAGE": "{name}' profile image",
       "VIEW_ENTRIES": "View entries",
       "VIEW_ENTRIES_ABOUT_WORD": "View entries about {word}",
+      "YOUR_FAVORITE_PEOPLE_AND_KEYWORDS": "Your favorite people and keywords",
       "YOU_ARE_BLOCKED": "You're blocked",
       "YOU_ARE_BLOCKED_SUBTEXT": "You can't follow or see {user}'s entries."
     },
@@ -245,6 +247,7 @@ export const messages = {
       "ACCOUNT_IS_MUTED": "このユーザーのエントリーはミュート中です。",
       "ADD_TO_FAVORITES": "お気に入りに追加",
       "ALBUM": "アルバム",
+      "ANTENNA": "Antenna",
       "BLOCKED": "ブロック中",
       "BLOCK_USER": "{user} をブロックする",
       "CONFIRM_UNBLOCK": "Unblock {user}?",
@@ -284,6 +287,7 @@ export const messages = {
       "USERS_PROFILE_IMAGE": "{name}' のプロフィール画像",
       "VIEW_ENTRIES": "エントリーを見る",
       "VIEW_ENTRIES_ABOUT_WORD": "{word} についてのエントリーを見る",
+      "YOUR_FAVORITE_PEOPLE_AND_KEYWORDS": "Your favorite people and keywords",
       "YOU_ARE_BLOCKED": "ブロックされています",
       "YOU_ARE_BLOCKED_SUBTEXT": "{user} をフォローしたりエントリーを見ることができません。"
     },

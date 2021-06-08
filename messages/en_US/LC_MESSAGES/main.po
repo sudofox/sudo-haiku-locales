@@ -18,6 +18,9 @@ msgstr "Add to favorites"
 msgid "ALBUM"
 msgstr "Album"
 
+msgid "ANTENNA"
+msgstr "Antenna"
+
 msgid "BLOCKED"
 msgstr "Blocked"
 
@@ -134,6 +137,9 @@ msgstr "View entries"
 
 msgid "VIEW_ENTRIES_ABOUT_WORD"
 msgstr "View entries about {word}"
+
+msgid "YOUR_FAVORITE_PEOPLE_AND_KEYWORDS"
+msgstr "Your favorite people and keywords"
 
 msgid "YOU_ARE_BLOCKED"
 msgstr "You're blocked"
