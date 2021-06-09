@@ -22,7 +22,7 @@ msgid "CANCEL"
 msgstr "キャンセル"
 
 msgid "CODE_BLOCK"
-msgstr "Code block"
+msgstr "コードブロック"
 
 msgid "DISCARD_THIS_MESSAGE"
 msgstr "このエントリーを破棄しますか？"
@@ -64,4 +64,4 @@ msgid "UNDERLINE"
 msgstr "下線"
 
 msgid "WRITE_HERE"
-msgstr "Write here…"
+msgstr "ここに書きます…"
