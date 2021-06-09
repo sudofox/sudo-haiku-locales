@@ -132,14 +132,6 @@ export const messages = {
       "YOUR": "your ",
       "YOUR_ENTRY": "your entry "
     },
-    "relTime": {
-      "day": "yesterday",
-      "days": "${time}",
-      "hour": "${time}h",
-      "hours": "${time}h",
-      "minute": "just now",
-      "minutes": "${time}m"
-    },
     "settings": {
       "BLOCKED_ON": "Blocked on {date}",
       "BLOCKED_USERS": "Blocked users",
@@ -307,14 +299,6 @@ export const messages = {
       "USER_HONORIFIC": "さん",
       "YOUR": "あなたの ",
       "YOUR_ENTRY": ""
-    },
-    "relTime": {
-      "day": "昨日",
-      "days": "${time}日間",
-      "hour": "${time}時間",
-      "hours": "${time}時間",
-      "minute": "ちょうど今",
-      "minutes": "${time}分"
     },
     "settings": {
       "BLOCKED_ON": "{date} にブロック",
