@@ -4,37 +4,38 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "ADDED_YOU_TO_THEIR_FAVORITES"
-msgstr " added you to their favorites"
+msgstr "があなたをお気に入りに追加しました"
 
 msgid "AND"
-msgstr " and "
+msgstr " と "
 
 msgid "COMMA"
-msgstr ", "
+msgstr "、 "
 
 msgid "COMMA_AND"
-msgstr ", and "
+msgstr "、 "
 
 msgid "COMMENTED_ON"
-msgstr " commented on "
+msgstr "がコメントしました "
 
 msgid "INTERACTED_WITH"
-msgstr " interacted with "
+msgstr "と交流しました "
 
 msgid "OTHER_PEOPLE"
-msgstr " other people"
+msgstr " 他の人"
 
 msgid "REPLIED_TO"
-msgstr " replied to "
+msgstr "がリプライしました "
 
 msgid "SENT_YOU_AN_ID_CALL_ON"
-msgstr " sent you an ID call on "
+msgstr "がIDコールしました "
 
 msgid "USER_HONORIFIC"
 msgstr "さん"
 
 msgid "YOUR"
-msgstr "your "
+msgstr "あなたの "
 
+# Perhaps don't need translation to keep right Japanese syntax.
 msgid "YOUR_ENTRY"
-msgstr "your entry "
+msgstr ""

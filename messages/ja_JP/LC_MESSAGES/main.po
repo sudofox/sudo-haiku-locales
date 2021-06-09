@@ -19,7 +19,7 @@ msgid "ALBUM"
 msgstr "アルバム"
 
 msgid "ANTENNA"
-msgstr "Antenna"
+msgstr "アンテナ"
 
 msgid "BLOCKED"
 msgstr "ブロック中"
@@ -28,19 +28,19 @@ msgid "BLOCK_USER"
 msgstr "{user} をブロックする"
 
 msgid "CONFIRM_UNBLOCK"
-msgstr "Unblock {user}?"
+msgstr "{user} のブロックを解除しますか？"
 
 msgid "CONFIRM_UNBLOCK_SUBTEXT"
-msgstr "They will be able to follow you and view your entries."
+msgstr "ブロックを解除すると、相手はあなたをフォローしたりエントリーを見たりできます。"
 
 msgid "CONFIRM_UNMUTE"
-msgstr "Are you sure you want to unmute {term}?"
+msgstr "本当に {term} のミュートを解除しますか？"
 
 msgid "CONFIRM_UNMUTE_KEYWORD_SUBTEXT"
-msgstr "Entries about {keyword} will become visible on the public timeline."
+msgstr "{keyword} キーワードの投稿が最新のタイムラインに表示されるようになります。"
 
 msgid "CONFIRM_UNMUTE_USER_SUBTEXT"
-msgstr "Entries from {user} will become visible on the public timeline."
+msgstr "{user} ユーザーの投稿が最新のタイムラインに表示されるようになります。"
 
 msgid "CONTINUE_AS_USER"
 msgstr "{name} としてログイン"
@@ -139,7 +139,7 @@ msgid "VIEW_ENTRIES_ABOUT_WORD"
 msgstr "{word} についてのエントリーを見る"
 
 msgid "YOUR_FAVORITE_PEOPLE_AND_KEYWORDS"
-msgstr "Your favorite people and keywords"
+msgstr "お気に入りの人たちとキーワード"
 
 msgid "YOU_ARE_BLOCKED"
 msgstr "ブロックされています"

@@ -13,28 +13,28 @@ msgid "BLOCKED_USERS_EXPLANATION"
 msgstr "Blocked users cannot view, interact with, or follow you."
 
 msgid "CONFIRM_LOGOUT"
-msgstr "Are you sure you want to logout?"
+msgstr "本当にログアウトしますか？"
 
 msgid "EDIT_PROFILE_INFORMATION"
 msgstr "プロフィールを編集する"
 
 msgid "FURIGANA_MODE"
-msgstr "Furigana mode"
+msgstr "ふりがなモード"
 
 msgid "HIRAGANA"
-msgstr "Hiragana"
+msgstr "ひらがな"
 
 msgid "JUMP_TO_SETTINGS_SECTION"
 msgstr "{section} の項目に移動"
 
 msgid "KANA"
-msgstr "Kana"
+msgstr "かな"
 
 msgid "KATAKANA"
-msgstr "Katakana"
+msgstr "カタカナ"
 
 msgid "LANGUAGE"
-msgstr "Language"
+msgstr "言語"
 
 # Do not translate LANG_* strings
 msgid "LANG_ENGLISH"
@@ -44,28 +44,28 @@ msgid "LANG_JAPANESE"
 msgstr "日本語"
 
 msgid "LAST_PROFILE_SYNC"
-msgstr "最新のプロフィール同期"
+msgstr "最新のプロフィールと同期"
 
 msgid "LOGOUT"
-msgstr "Log Out"
+msgstr "ログアウト"
 
 msgid "MUTED_KEYWORDS"
-msgstr "Muted keywords"
+msgstr "ミュート中のキーワード"
 
 msgid "MUTED_KEYWORDS_EXPLANATION"
-msgstr "Muted keywords will be excluded from the public timeline."
+msgstr "ミュートされたキーワードは最新のタイムラインから除外されます。"
 
 msgid "MUTED_ON"
-msgstr "Muted on {date}"
+msgstr "{date} にミュート"
 
 msgid "MUTED_USERS"
-msgstr "Muted users"
+msgstr "ミュート中のユーザー"
 
 msgid "MUTED_USERS_EXPLANATION"
-msgstr "Muted users will not be shown on the public timeline, but you can still view their entries directly."
+msgstr "ミュートされたユーザーは最新のタイムラインから除外されます。ただし、直接ユーザーのページを開くと見ることができます。"
 
 msgid "NOTHING_HERE"
-msgstr "There's nothing here."
+msgstr "ミュートしていません"
 
 msgid "PLAY_STAR_SOUNDS"
 msgstr "スターの音を再生する"
@@ -77,16 +77,16 @@ msgid "PROFILE"
 msgstr "プロフィール"
 
 msgid "ROMAJI"
-msgstr "Romaji"
+msgstr "ローマ字"
 
 msgid "SECTION_A11Y"
-msgstr "Accessibility"
+msgstr "アクセシビリティ"
 
 msgid "SECTION_ACCOUNT"
 msgstr "アカウント"
 
 msgid "SECTION_SAFETY"
-msgstr "Safety"
+msgstr "安全"
 
 msgid "SECTION_STARS"
 msgstr "スター"
@@ -95,7 +95,7 @@ msgid "SETTINGS"
 msgstr "設定"
 
 msgid "SHOW_FURIGANA"
-msgstr "Show furigana above text"
+msgstr "文章の上にふりがなを表示します"
 
 msgid "SYNC_DATA_EXPLANATION"
 msgstr "名前と自己紹介をはてなプロフィールから取得します。"
