@@ -4,13 +4,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "BLOCKED_ON"
-msgstr "Blocked on {date}"
+msgstr "{date} にブロック"
 
 msgid "BLOCKED_USERS"
-msgstr "Blocked users"
+msgstr "ブロック中のユーザー"
 
 msgid "BLOCKED_USERS_EXPLANATION"
-msgstr "Blocked users cannot view, interact with, or follow you."
+msgstr "ブロックされたユーザーはあなたの投稿を見たり、関わったり、フォローしたりできません。"
 
 msgid "CONFIRM_LOGOUT"
 msgstr "本当にログアウトしますか？"
