@@ -128,6 +128,7 @@ export const messages = {
       "OTHER_PEOPLE": " other people",
       "REPLIED_TO": " replied to ",
       "SENT_YOU_AN_ID_CALL_ON": " sent you an ID call on ",
+      "THEIR_ENTRY": "their entry ",
       "USER_HONORIFIC": "",
       "YOUR": "your ",
       "YOUR_ENTRY": "your entry "
@@ -282,7 +283,7 @@ export const messages = {
       "RELATED_KEYWORDS": "関連キーワード",
       "REMOVE_FROM_FAVORITES": "お気に入りから削除",
       "SETTINGS": "設定",
-      "UNBLOCK": "Unblock",
+      "UNBLOCK": "ブロックを解除",
       "UNBLOCK_USER": "{user} のブロックを解除",
       "UNMUTE": "ミュートを解除",
       "UNMUTE_THING": "{thing} のミュートを解除",
@@ -309,6 +310,7 @@ export const messages = {
       "OTHER_PEOPLE": " 他の人",
       "REPLIED_TO": "がリプライしました ",
       "SENT_YOU_AN_ID_CALL_ON": "がIDコールしました ",
+      "THEIR_ENTRY": "their entry ",
       "USER_HONORIFIC": "さん",
       "YOUR": "あなたの ",
       "YOUR_ENTRY": ""
@@ -349,17 +351,17 @@ export const messages = {
       "SYNC_PROFILE_FROM_HATENA": "今すぐ取得"
     },
     "starCookieModal": {
-      "BUTTON_CHECK_NOW": "Check now",
-      "BUTTON_FIX": "Fix",
-      "IF_IOS_DEVICE": "If you're using an iOS device:",
-      "IOS_CHROME_OTHER": "Chrome or other",
-      "IOS_CHROME_OTHER_STEPS": "Settings > (Your browser) > Turn on 'Allow Cross-Website Tracking'",
+      "BUTTON_CHECK_NOW": "今すぐチェックする",
+      "BUTTON_FIX": "なおす",
+      "IF_IOS_DEVICE": "iOS端末を利用している場合:",
+      "IOS_CHROME_OTHER": "Chrome もしくは その他",
+      "IOS_CHROME_OTHER_STEPS": "設定 > (ブラウザ) > 「サイト越えトラッキングを許可」をオンに変更",
       "IOS_SAFARI": "Safari",
-      "IOS_SAFARI_STEPS": "Settings > Safari > Turn off 'Prevent Cross-Site Tracking'",
-      "MAYBE_COOKIES_BLOCKED": "Your browser may be blocking third-party cookies. Hatena Star uses third-party cookies to work on other sites.",
-      "MAYBE_NOT_LOGGED_IN": "You might not be logged into Hatena.",
-      "PROBLEM_CONNECTING": "There was a problem connecting to Hatena Star.",
-      "WHY_DID_THIS_HAPPEN": "Why did this happen?"
+      "IOS_SAFARI_STEPS": "設定 > Safari > 「サイト越えトラッキングを防ぐ」をオフに変更",
+      "MAYBE_COOKIES_BLOCKED": "ブラウザがサードパーティのクッキーをブロックしている可能性があります。はてなスターは他のサイトで動作するためにサードパーティのクッキーを利用しています。",
+      "MAYBE_NOT_LOGGED_IN": "はてなにログインしていない可能性があります。",
+      "PROBLEM_CONNECTING": "はてなスターへの接続時に問題が発生しました。",
+      "WHY_DID_THIS_HAPPEN": "なにがおきたか"
     }
   }
 };
