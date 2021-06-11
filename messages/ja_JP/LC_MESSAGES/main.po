@@ -109,7 +109,7 @@ msgid "SETTINGS"
 msgstr "設定"
 
 msgid "UNBLOCK"
-msgstr "Unblock"
+msgstr "ブロックを解除"
 
 msgid "UNBLOCK_USER"
 msgstr "{user} のブロックを解除"

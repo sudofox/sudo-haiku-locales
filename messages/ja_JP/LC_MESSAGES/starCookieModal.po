@@ -4,20 +4,20 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "BUTTON_CHECK_NOW"
-msgstr "Check now"
+msgstr "今すぐチェックする"
 
 msgid "BUTTON_FIX"
-msgstr "Fix"
+msgstr "なおす"
 
 msgid "IF_IOS_DEVICE"
-msgstr "If you're using an iOS device:"
+msgstr "iOS端末を利用している場合:"
 
 msgid "IOS_CHROME_OTHER"
-msgstr "Chrome or other"
+msgstr "Chrome もしくは その他"
 
 # Please refer to https://youtu.be/sJKalTgkPHw
 msgid "IOS_CHROME_OTHER_STEPS"
-msgstr "Settings > (Your browser) > Turn on 'Allow Cross-Website Tracking'"
+msgstr "設定 > (ブラウザ) > 「サイト越えトラッキングを許可」をオンに変更"
 
 # Referring to Safari browser
 msgid "IOS_SAFARI"
@@ -25,16 +25,16 @@ msgstr "Safari"
 
 # Please refer to https://youtu.be/DGgh5TQb5hY
 msgid "IOS_SAFARI_STEPS"
-msgstr "Settings > Safari > Turn off 'Prevent Cross-Site Tracking'"
+msgstr "設定 > Safari > 「サイト越えトラッキングを防ぐ」をオフに変更"
 
 msgid "MAYBE_COOKIES_BLOCKED"
-msgstr "Your browser may be blocking third-party cookies. Hatena Star uses third-party cookies to work on other sites."
+msgstr "ブラウザがサードパーティのクッキーをブロックしている可能性があります。はてなスターは他のサイトで動作するためにサードパーティのクッキーを利用しています。"
 
 msgid "MAYBE_NOT_LOGGED_IN"
-msgstr "You might not be logged into Hatena."
+msgstr "はてなにログインしていない可能性があります。"
 
 msgid "PROBLEM_CONNECTING"
-msgstr "There was a problem connecting to Hatena Star."
+msgstr "はてなスターへの接続時に問題が発生しました。"
 
 msgid "WHY_DID_THIS_HAPPEN"
-msgstr "Why did this happen?"
+msgstr "なにがおきたか"
