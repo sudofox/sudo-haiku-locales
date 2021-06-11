@@ -166,6 +166,19 @@ export const messages = {
       "SHOW_FURIGANA": "Show furigana above text",
       "SYNC_DATA_EXPLANATION": "Your profile name and description will match what's written on your Hatena Profile.",
       "SYNC_PROFILE_FROM_HATENA": "Sync now"
+    },
+    "starCookieModal": {
+      "BUTTON_CHECK_NOW": "Check now",
+      "BUTTON_FIX": "Fix",
+      "IF_IOS_DEVICE": "If you're using an iOS device:",
+      "IOS_CHROME_OTHER": "Chrome or other",
+      "IOS_CHROME_OTHER_STEPS": "Settings > (Your browser) > Turn on 'Allow Cross-Website Tracking'",
+      "IOS_SAFARI": "Safari",
+      "IOS_SAFARI_STEPS": "Settings > Safari > Turn off 'Prevent Cross-Site Tracking'",
+      "MAYBE_COOKIES_BLOCKED": "Your browser may be blocking third-party cookies. Hatena Star uses third-party cookies to work on other sites.",
+      "MAYBE_NOT_LOGGED_IN": "You might not be logged into Hatena.",
+      "PROBLEM_CONNECTING": "There was a problem connecting to Hatena Star.",
+      "WHY_DID_THIS_HAPPEN": "Why did this happen?"
     }
   },
   "ja": {
@@ -334,6 +347,19 @@ export const messages = {
       "SHOW_FURIGANA": "文章の上にふりがなを表示します",
       "SYNC_DATA_EXPLANATION": "名前と自己紹介をはてなプロフィールから取得します。",
       "SYNC_PROFILE_FROM_HATENA": "今すぐ取得"
+    },
+    "starCookieModal": {
+      "BUTTON_CHECK_NOW": "Check now",
+      "BUTTON_FIX": "Fix",
+      "IF_IOS_DEVICE": "If you're using an iOS device:",
+      "IOS_CHROME_OTHER": "Chrome or other",
+      "IOS_CHROME_OTHER_STEPS": "Settings > (Your browser) > Turn on 'Allow Cross-Website Tracking'",
+      "IOS_SAFARI": "Safari",
+      "IOS_SAFARI_STEPS": "Settings > Safari > Turn off 'Prevent Cross-Site Tracking'",
+      "MAYBE_COOKIES_BLOCKED": "Your browser may be blocking third-party cookies. Hatena Star uses third-party cookies to work on other sites.",
+      "MAYBE_NOT_LOGGED_IN": "You might not be logged into Hatena.",
+      "PROBLEM_CONNECTING": "There was a problem connecting to Hatena Star.",
+      "WHY_DID_THIS_HAPPEN": "Why did this happen?"
     }
   }
 };

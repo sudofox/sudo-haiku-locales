@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Language: ja_JP\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "BUTTON_CHECK_NOW"
+msgstr "Check now"
+
+msgid "BUTTON_FIX"
+msgstr "Fix"
+
+msgid "IF_IOS_DEVICE"
+msgstr "If you're using an iOS device:"
+
+msgid "IOS_CHROME_OTHER"
+msgstr "Chrome or other"
+
+# Please refer to https://youtu.be/sJKalTgkPHw
+msgid "IOS_CHROME_OTHER_STEPS"
+msgstr "Settings > (Your browser) > Turn on 'Allow Cross-Website Tracking'"
+
+# Referring to Safari browser
+msgid "IOS_SAFARI"
+msgstr "Safari"
+
+# Please refer to https://youtu.be/DGgh5TQb5hY
+msgid "IOS_SAFARI_STEPS"
+msgstr "Settings > Safari > Turn off 'Prevent Cross-Site Tracking'"
+
+msgid "MAYBE_COOKIES_BLOCKED"
+msgstr "Your browser may be blocking third-party cookies. Hatena Star uses third-party cookies to work on other sites."
+
+msgid "MAYBE_NOT_LOGGED_IN"
+msgstr "You might not be logged into Hatena."
+
+msgid "PROBLEM_CONNECTING"
+msgstr "There was a problem connecting to Hatena Star."
+
+msgid "WHY_DID_THIS_HAPPEN"
+msgstr "Why did this happen?"
