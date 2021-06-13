@@ -68,7 +68,7 @@ msgid "NOTHING_HERE"
 msgstr "There's nothing here."
 
 msgid "PLAY_SOUND_FX"
-msgstr "Play sound effects"
+msgstr "Sound effects"
 
 msgid "PLAY_STAR_SOUNDS"
 msgstr "Play Star sounds"
