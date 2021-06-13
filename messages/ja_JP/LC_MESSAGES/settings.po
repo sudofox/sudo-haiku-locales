@@ -67,6 +67,9 @@ msgstr "ミュートされたユーザーは最新のタイムラインから除
 msgid "NOTHING_HERE"
 msgstr "ミュートしていません"
 
+msgid "PLAY_SOUND_FX"
+msgstr "Play sound effects"
+
 msgid "PLAY_STAR_SOUNDS"
 msgstr "スターの音を再生する"
 

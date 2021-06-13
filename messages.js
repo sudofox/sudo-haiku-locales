@@ -155,6 +155,7 @@ export const messages = {
       "MUTED_USERS": "Muted users",
       "MUTED_USERS_EXPLANATION": "Muted users will not be shown on the public timeline, but you can still view their entries directly.",
       "NOTHING_HERE": "There's nothing here.",
+      "PLAY_SOUND_FX": "Play sound effects",
       "PLAY_STAR_SOUNDS": "Play Star sounds",
       "PREVIEW": "Preview",
       "PROFILE": "Profile",
@@ -180,6 +181,12 @@ export const messages = {
       "MAYBE_NOT_LOGGED_IN": "You might not be logged into Hatena.",
       "PROBLEM_CONNECTING": "There was a problem connecting to Hatena Star.",
       "WHY_DID_THIS_HAPPEN": "Why did this happen?"
+    },
+    "translate": {
+      "TRANSLATED_FROM_X_BY": "Translated from {language} by",
+      "TRANSLATED_FROM_X_BY_GOOGLE": "Translated from {language} by Google",
+      "TRANSLATE_ENTRY": "Translate entry",
+      "TRANSLATION_FAILED": "Translation failed"
     }
   },
   "ja": {
@@ -337,6 +344,7 @@ export const messages = {
       "MUTED_USERS": "ミュート中のユーザー",
       "MUTED_USERS_EXPLANATION": "ミュートされたユーザーは最新のタイムラインから除外されます。ただし、直接ユーザーのページを開くと見ることができます。",
       "NOTHING_HERE": "ミュートしていません",
+      "PLAY_SOUND_FX": "Play sound effects",
       "PLAY_STAR_SOUNDS": "スターの音を再生する",
       "PREVIEW": "プレビュー",
       "PROFILE": "プロフィール",
@@ -362,6 +370,12 @@ export const messages = {
       "MAYBE_NOT_LOGGED_IN": "はてなにログインしていない可能性があります。",
       "PROBLEM_CONNECTING": "はてなスターへの接続時に問題が発生しました。",
       "WHY_DID_THIS_HAPPEN": "なにがおきたか"
+    },
+    "translate": {
+      "TRANSLATED_FROM_X_BY": "Translated from {language} by",
+      "TRANSLATED_FROM_X_BY_GOOGLE": "Googleによる{language}からの翻訳",
+      "TRANSLATE_ENTRY": "翻訳する",
+      "TRANSLATION_FAILED": "翻訳に失敗しました"
     }
   }
 };

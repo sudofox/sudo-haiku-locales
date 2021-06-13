@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Language: ja_JP\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+# Google logo is placed at the end of this sentence.
+msgid "TRANSLATED_FROM_X_BY"
+msgstr "Translated from {language} by"
+
+# Google logo is included in the sentence (breaks google brand guidelines)
+msgid "TRANSLATED_FROM_X_BY_GOOGLE"
+msgstr "Googleによる{language}からの翻訳"
+
+msgid "TRANSLATE_ENTRY"
+msgstr "翻訳する"
+
+msgid "TRANSLATION_FAILED"
+msgstr "翻訳に失敗しました"
