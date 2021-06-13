@@ -68,7 +68,7 @@ msgid "NOTHING_HERE"
 msgstr "ミュートしていません"
 
 msgid "PLAY_SOUND_FX"
-msgstr "Play sound effects"
+msgstr "音響効果"
 
 msgid "PLAY_STAR_SOUNDS"
 msgstr "スターの音を再生する"
