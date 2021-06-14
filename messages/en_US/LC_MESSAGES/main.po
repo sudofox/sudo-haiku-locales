@@ -60,6 +60,9 @@ msgstr "Hatena Blog Tags"
 msgid "HATENA_BLOG_TAG_ABOUT_WORD"
 msgstr "What is {word}?"
 
+msgid "HOME"
+msgstr "Home"
+
 msgid "HOT_KEYWORDS"
 msgstr "Hot Keywords"
 

@@ -60,6 +60,9 @@ msgstr "はてなブログ タグ"
 msgid "HATENA_BLOG_TAG_ABOUT_WORD"
 msgstr "{word}とは？"
 
+msgid "HOME"
+msgstr "ホーム"
+
 msgid "HOT_KEYWORDS"
 msgstr "注目のキーワード"
 
