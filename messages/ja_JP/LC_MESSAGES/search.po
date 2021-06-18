@@ -4,17 +4,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "NOTHING_FOUND_FOR_TERM"
-msgstr "Nothing found for '{term}'"
+msgstr "'{term}' が見つかりませんでした"
 
 msgid "SEARCH"
-msgstr "Search"
+msgstr "お題を探す"
 
 msgid "SEARCH_FOR_PLACEHOLDER"
-msgstr "a keyword..."
+msgstr "キーワード"
 
 # the search input box is to the right and inline with this heading (Search for [search box]...)
 msgid "SEARCH_FOR_TYPEAHEAD"
-msgstr "Search for"
+msgstr "お題を探す: "
 
 msgid "SEARCH_RESULTS_FOR_TERM"
-msgstr "Search results for '{term}'"
+msgstr "'{term}' の検索結果"
