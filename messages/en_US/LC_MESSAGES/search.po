@@ -1,0 +1,20 @@
+msgid ""
+msgstr ""
+"Language: en_US\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "NOTHING_FOUND_FOR_TERM"
+msgstr "Nothing found for '{term}'"
+
+msgid "SEARCH"
+msgstr "Search"
+
+msgid "SEARCH_FOR_PLACEHOLDER"
+msgstr "a keyword..."
+
+# the search input box is to the right and inline with this heading (Search for [search box]...)
+msgid "SEARCH_FOR_TYPEAHEAD"
+msgstr "Search for"
+
+msgid "SEARCH_RESULTS_FOR_TERM"
+msgstr "Search results for '{term}'"

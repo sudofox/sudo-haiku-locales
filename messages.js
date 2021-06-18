@@ -134,6 +134,13 @@ export const messages = {
       "YOUR": "your ",
       "YOUR_ENTRY": "your entry "
     },
+    "search": {
+      "NOTHING_FOUND_FOR_TERM": "Nothing found for '{term}'",
+      "SEARCH": "Search",
+      "SEARCH_FOR_PLACEHOLDER": "a keyword...",
+      "SEARCH_FOR_TYPEAHEAD": "Search for",
+      "SEARCH_RESULTS_FOR_TERM": "Search results for '{term}'"
+    },
     "settings": {
       "BLOCKED_ON": "Blocked on {date}",
       "BLOCKED_USERS": "Blocked users",
@@ -323,6 +330,13 @@ export const messages = {
       "USER_HONORIFIC": "さん",
       "YOUR": "あなたの ",
       "YOUR_ENTRY": ""
+    },
+    "search": {
+      "NOTHING_FOUND_FOR_TERM": "Nothing found for '{term}'",
+      "SEARCH": "Search",
+      "SEARCH_FOR_PLACEHOLDER": "a keyword...",
+      "SEARCH_FOR_TYPEAHEAD": "Search for",
+      "SEARCH_RESULTS_FOR_TERM": "Search results for '{term}'"
     },
     "settings": {
       "BLOCKED_ON": "{date} にブロック",
