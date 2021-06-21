@@ -64,9 +64,6 @@ msgstr "Muted users"
 msgid "MUTED_USERS_EXPLANATION"
 msgstr "Muted users will not be shown on the public timeline, but you can still view their entries directly."
 
-msgid "NOTHING_HERE"
-msgstr "There's nothing here."
-
 msgid "PLAY_SOUND_FX"
 msgstr "Sound effects"
 

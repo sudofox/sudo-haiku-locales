@@ -45,6 +45,16 @@ msgstr "Entries from {user} will become visible on the public timeline."
 msgid "CONTINUE_AS_USER"
 msgstr "Continue as {name}"
 
+# This text isn't final. Expect to see it change later.
+msgid "DAYS_WRITTEN"
+msgstr "Days written:"
+
+msgid "DAYS_WRITTEN_CONTINUOUS"
+msgstr "Continuous:"
+
+msgid "DAYS_WRITTEN_SINCE"
+msgstr "Since {date}"
+
 msgid "ENTRIES"
 msgstr "Entries"
 
@@ -89,6 +99,9 @@ msgstr "Mute {thing}"
 
 msgid "NEW_HATENA_BLOG_ENTRY_ABOUT_WORD"
 msgstr "Write a blog about {word}"
+
+msgid "NOTHING_HERE"
+msgstr "There's nothing here."
 
 msgid "NO_BLOG_TAG_DATA_AVAILABLE"
 msgstr "No information available for this keyword"
@@ -140,6 +153,9 @@ msgstr "View entries"
 
 msgid "VIEW_ENTRIES_ABOUT_WORD"
 msgstr "View entries about {word}"
+
+msgid "X_DAYS"
+msgstr "{count} day|{count} days"
 
 msgid "YOUR_FAVORITE_PEOPLE_AND_KEYWORDS"
 msgstr "Your favorite people and keywords"

@@ -64,9 +64,6 @@ msgstr "ミュート中のユーザー"
 msgid "MUTED_USERS_EXPLANATION"
 msgstr "ミュートされたユーザーは最新のタイムラインから除外されます。ただし、直接ユーザーのページを開くと見ることができます。"
 
-msgid "NOTHING_HERE"
-msgstr "ミュートしていません"
-
 msgid "PLAY_SOUND_FX"
 msgstr "効果音"
 
