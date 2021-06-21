@@ -12,6 +12,9 @@ msgstr "不正なパラメーター"
 msgid "EMPTY_POST:"
 msgstr "本文を入力してください"
 
+msgid "ERROR_CONTACTING_HATENA"
+msgstr "Error occurred while contacting Hatena"
+
 msgid "MISSING_PARAM:"
 msgstr "パラメーターが足りません"
 

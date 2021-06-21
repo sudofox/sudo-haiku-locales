@@ -12,6 +12,9 @@ msgstr "Bad parameter"
 msgid "EMPTY_POST"
 msgstr "Entry cannot be blank"
 
+msgid "ERROR_CONTACTING_HATENA"
+msgstr "Error occurred while contacting Hatena"
+
 msgid "MISSING_PARAM"
 msgstr "Missing parameter"
 

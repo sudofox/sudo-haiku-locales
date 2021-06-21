@@ -41,6 +41,7 @@ export const messages = {
       "BAD_IN_REPLY_TO_ENTRY_ID": "Bad in_reply_to_entry_id",
       "BAD_PARAM": "Bad parameter",
       "EMPTY_POST": "Entry cannot be blank",
+      "ERROR_CONTACTING_HATENA": "Error occurred while contacting Hatena",
       "MISSING_PARAM": "Missing parameter",
       "NOT_FOUND": "Not found",
       "NO_PERMISSION": "You don't have permission to do that",
@@ -242,6 +243,7 @@ export const messages = {
       "BAD_IN_REPLY_TO_ENTRY_ID:": "不正な in_reply_to_entry_id",
       "BAD_PARAM:": "不正なパラメーター",
       "EMPTY_POST:": "本文を入力してください",
+      "ERROR_CONTACTING_HATENA": "Error occurred while contacting Hatena",
       "MISSING_PARAM:": "パラメーターが足りません",
       "NOT_FOUND:": "見つかりませんでした",
       "NO_PERMISSION:": "権限がありません",
@@ -341,11 +343,11 @@ export const messages = {
       "YOUR_ENTRY": ""
     },
     "search": {
-      "NOTHING_FOUND_FOR_TERM": "Nothing found for '{term}'",
-      "SEARCH": "Search",
-      "SEARCH_FOR_PLACEHOLDER": "a keyword...",
-      "SEARCH_FOR_TYPEAHEAD": "Search for",
-      "SEARCH_RESULTS_FOR_TERM": "Search results for '{term}'"
+      "NOTHING_FOUND_FOR_TERM": "'{term}' が見つかりませんでした",
+      "SEARCH": "お題を探す",
+      "SEARCH_FOR_PLACEHOLDER": "キーワード",
+      "SEARCH_FOR_TYPEAHEAD": "お題を探す: ",
+      "SEARCH_RESULTS_FOR_TERM": "'{term}' の検索結果"
     },
     "settings": {
       "BLOCKED_ON": "{date} にブロック",
