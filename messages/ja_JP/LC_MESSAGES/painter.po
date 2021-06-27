@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Language: ja_JP\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "CLEAR_CANVAS"
+msgstr "Clear canvas"
+
+msgid "CONFIRM_CLEAR"
+msgstr "Are you sure you want to clear the canvas?"
+
+msgid "CONFIRM_DISCARD"
+msgstr "Are you sure you want to discard this?"
+
+msgid "DISCARD"
+msgstr "Discard"
+
+msgid "DRAW_ABOVE"
+msgstr "Draw above"
+
+msgid "DRAW_UNDERNEATH"
+msgstr "Draw underneath"
+
+msgid "SAVE"
+msgstr "Save"
+
+msgid "SELECT_COLOR"
+msgstr "Select color"
+
+msgid "TOGGLE_TRANSPARENCY"
+msgstr "Toggle canvas transparency"
+
+msgid "TOOL_BRUSH"
+msgstr "Brush"
+
+msgid "TOOL_BUCKET"
+msgstr "Bucket fill"
+
+msgid "TOOL_ERASER"
+msgstr "Eraser"
+
+msgid "TOOL_PEN"
+msgstr "Pen"
+
+msgid "UNDO"
+msgstr "Undo"
+
+msgid "UNDO_MINI"
+msgstr "Mini Undo"

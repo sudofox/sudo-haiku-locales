@@ -24,6 +24,9 @@ msgstr "Cancel"
 msgid "CODE_BLOCK"
 msgstr "Code block"
 
+msgid "CREATE_PAINTING"
+msgstr "Create painting"
+
 msgid "DISCARD_THIS_MESSAGE"
 msgstr "Discard this message?"
 

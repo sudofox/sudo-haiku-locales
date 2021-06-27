@@ -24,6 +24,9 @@ msgstr "キャンセル"
 msgid "CODE_BLOCK"
 msgstr "コードブロック"
 
+msgid "CREATE_PAINTING"
+msgstr "Create painting"
+
 msgid "DISCARD_THIS_MESSAGE"
 msgstr "このエントリーを破棄しますか？"
 

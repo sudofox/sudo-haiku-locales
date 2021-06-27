@@ -9,6 +9,7 @@ export const messages = {
       "BOLD": "Bold",
       "CANCEL": "Cancel",
       "CODE_BLOCK": "Code block",
+      "CREATE_PAINTING": "Create painting",
       "DISCARD_THIS_MESSAGE": "Discard this message?",
       "ITALIC": "Italic",
       "JUMP_TO_EMOJI_GROUP": "Jump to {groupname}",
@@ -140,6 +141,23 @@ export const messages = {
       "YOUR": "your ",
       "YOUR_ENTRY": "your entry "
     },
+    "painter": {
+      "CLEAR_CANVAS": "Clear canvas",
+      "CONFIRM_CLEAR": "Are you sure you want to clear the canvas?",
+      "CONFIRM_DISCARD": "Are you sure you want to discard this?",
+      "DISCARD": "Discard",
+      "DRAW_ABOVE": "Draw above",
+      "DRAW_UNDERNEATH": "Draw underneath",
+      "SAVE": "Save",
+      "SELECT_COLOR": "Select color",
+      "TOGGLE_TRANSPARENCY": "Toggle canvas transparency",
+      "TOOL_BRUSH": "Brush",
+      "TOOL_BUCKET": "Bucket fill",
+      "TOOL_ERASER": "Eraser",
+      "TOOL_PEN": "Pen",
+      "UNDO": "Undo",
+      "UNDO_MINI": "Mini Undo"
+    },
     "search": {
       "NOTHING_FOUND_FOR_TERM": "Nothing found for '{term}'",
       "SEARCH": "Search",
@@ -211,6 +229,7 @@ export const messages = {
       "BOLD": "太字",
       "CANCEL": "キャンセル",
       "CODE_BLOCK": "コードブロック",
+      "CREATE_PAINTING": "Create painting",
       "DISCARD_THIS_MESSAGE": "このエントリーを破棄しますか？",
       "ITALIC": "斜体",
       "JUMP_TO_EMOJI_GROUP": "{groupname} にジャンプ",
@@ -341,6 +360,23 @@ export const messages = {
       "USER_HONORIFIC": "さん",
       "YOUR": "あなたの ",
       "YOUR_ENTRY": ""
+    },
+    "painter": {
+      "CLEAR_CANVAS": "Clear canvas",
+      "CONFIRM_CLEAR": "Are you sure you want to clear the canvas?",
+      "CONFIRM_DISCARD": "Are you sure you want to discard this?",
+      "DISCARD": "Discard",
+      "DRAW_ABOVE": "Draw above",
+      "DRAW_UNDERNEATH": "Draw underneath",
+      "SAVE": "Save",
+      "SELECT_COLOR": "Select color",
+      "TOGGLE_TRANSPARENCY": "Toggle canvas transparency",
+      "TOOL_BRUSH": "Brush",
+      "TOOL_BUCKET": "Bucket fill",
+      "TOOL_ERASER": "Eraser",
+      "TOOL_PEN": "Pen",
+      "UNDO": "Undo",
+      "UNDO_MINI": "Mini Undo"
     },
     "search": {
       "NOTHING_FOUND_FOR_TERM": "'{term}' が見つかりませんでした",
