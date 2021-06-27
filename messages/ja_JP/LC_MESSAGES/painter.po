@@ -12,14 +12,23 @@ msgstr "キャンバスをクリアしますか？"
 msgid "CONFIRM_DISCARD"
 msgstr "保存せずに変更を破棄しますか？"
 
+msgid "CONFIRM_EXPORT"
+msgstr "Are you finished painting?"
+
 msgid "DISCARD"
 msgstr "破棄する"
+
+msgid "DOWNLOAD"
+msgstr "Download"
 
 msgid "DRAW_ABOVE"
 msgstr "前面レイヤーに切り替える"
 
 msgid "DRAW_UNDERNEATH"
 msgstr "背面レイヤーに切り替える"
+
+msgid "EDIT_COLOR"
+msgstr "Edit color"
 
 msgid "SAVE"
 msgstr "保存する"

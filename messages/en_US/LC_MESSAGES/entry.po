@@ -15,5 +15,8 @@ msgstr "This entry has been deleted."
 msgid "REPLY"
 msgstr "Reply"
 
+msgid "SHARE"
+msgstr "Share"
+
 msgid "SHOW_REPLIES"
 msgstr "Show repies"

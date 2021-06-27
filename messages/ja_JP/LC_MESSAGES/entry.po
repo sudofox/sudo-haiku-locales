@@ -15,5 +15,8 @@ msgstr "このエントリーは削除済みです。"
 msgid "REPLY"
 msgstr "返信"
 
+msgid "SHARE"
+msgstr "Share"
+
 msgid "SHOW_REPLIES"
 msgstr "返信を表示"
