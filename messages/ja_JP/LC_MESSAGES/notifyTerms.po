@@ -30,8 +30,9 @@ msgstr "がリプライしました "
 msgid "SENT_YOU_AN_ID_CALL_ON"
 msgstr "がIDコールしました "
 
+# Perhaps don't need translation to keep right Japanese syntax.
 msgid "THEIR_ENTRY"
-msgstr "their entry "
+msgstr ""
 
 msgid "USER_HONORIFIC"
 msgstr "さん"

@@ -47,13 +47,13 @@ msgstr "{name} としてログイン"
 
 # This text isn't final. Expect to see it change later.
 msgid "DAYS_WRITTEN"
-msgstr "Days written:"
+msgstr "書いた日数:"
 
 msgid "DAYS_WRITTEN_CONTINUOUS"
-msgstr "Continuous:"
+msgstr "連続:"
 
 msgid "DAYS_WRITTEN_SINCE"
-msgstr "Since {date}"
+msgstr "{date} から"
 
 msgid "ENTRIES"
 msgstr "エントリー"
@@ -155,7 +155,7 @@ msgid "VIEW_ENTRIES_ABOUT_WORD"
 msgstr "{word} についてのエントリーを見る"
 
 msgid "X_DAYS"
-msgstr "{count} day|{count} days"
+msgstr "{count} 日|{count} 日"
 
 msgid "YOUR_FAVORITE_PEOPLE_AND_KEYWORDS"
 msgstr "お気に入りの人たちとキーワード"
