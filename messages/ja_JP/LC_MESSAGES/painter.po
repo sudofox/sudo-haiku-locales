@@ -4,46 +4,46 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CLEAR_CANVAS"
-msgstr "Clear canvas"
+msgstr "キャンバスをクリア"
 
 msgid "CONFIRM_CLEAR"
-msgstr "Are you sure you want to clear the canvas?"
+msgstr "キャンバスをクリアしますか？"
 
 msgid "CONFIRM_DISCARD"
-msgstr "Are you sure you want to discard this?"
+msgstr "保存せずに変更を破棄しますか？"
 
 msgid "DISCARD"
-msgstr "Discard"
+msgstr "破棄する"
 
 msgid "DRAW_ABOVE"
-msgstr "Draw above"
+msgstr "前面レイヤーに切り替える"
 
 msgid "DRAW_UNDERNEATH"
-msgstr "Draw underneath"
+msgstr "背面レイヤーに切り替える"
 
 msgid "SAVE"
-msgstr "Save"
+msgstr "保存する"
 
 msgid "SELECT_COLOR"
-msgstr "Select color"
+msgstr "色を選択"
 
 msgid "TOGGLE_TRANSPARENCY"
-msgstr "Toggle canvas transparency"
+msgstr "キャンバスの透明度を切り替える"
 
 msgid "TOOL_BRUSH"
-msgstr "Brush"
+msgstr "ブラシ"
 
 msgid "TOOL_BUCKET"
-msgstr "Bucket fill"
+msgstr "塗りつぶし"
 
 msgid "TOOL_ERASER"
-msgstr "Eraser"
+msgstr "消しゴム"
 
 msgid "TOOL_PEN"
-msgstr "Pen"
+msgstr "ペン"
 
 msgid "UNDO"
-msgstr "Undo"
+msgstr "元に戻す"
 
 msgid "UNDO_MINI"
-msgstr "Mini Undo"
+msgstr "少し戻す"

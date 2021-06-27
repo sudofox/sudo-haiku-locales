@@ -25,7 +25,7 @@ msgid "CODE_BLOCK"
 msgstr "コードブロック"
 
 msgid "CREATE_PAINTING"
-msgstr "Create painting"
+msgstr "お絵かきを始める"
 
 msgid "DISCARD_THIS_MESSAGE"
 msgstr "このエントリーを破棄しますか？"
