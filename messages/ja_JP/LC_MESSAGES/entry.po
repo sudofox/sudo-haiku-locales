@@ -16,7 +16,7 @@ msgid "REPLY"
 msgstr "返信"
 
 msgid "SHARE"
-msgstr "Share"
+msgstr "共有"
 
 msgid "SHOW_REPLIES"
 msgstr "返信を表示"
