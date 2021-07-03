@@ -76,6 +76,9 @@ msgstr "Home"
 msgid "HOT_KEYWORDS"
 msgstr "Hot Keywords"
 
+msgid "ID_PAGE"
+msgstr "ID Page"
+
 msgid "KEYWORDS"
 msgstr "Keywords"
 

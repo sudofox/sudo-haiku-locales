@@ -3,6 +3,27 @@ msgstr ""
 "Language: en_US\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "CALIBRATE_DYNAMICS"
+msgstr "Calibrate dynamics"
+
+msgid "CALIBRATE_PROGRESS_MESSAGE1"
+msgstr "Gently..."
+
+msgid "CALIBRATE_PROGRESS_MESSAGE2"
+msgstr "Press much harder now."
+
+msgid "CALIBRATE_PROGRESS_MESSAGE3"
+msgstr "Move around a little bit!"
+
+msgid "CALIBRATE_PROGRESS_MESSAGE4"
+msgstr "Keep pressing..."
+
+msgid "CALIBRATION_COMPLETE"
+msgstr "Done!"
+
+msgid "CALIBRATION_INTERRUPTED"
+msgstr "Calibration interrupted"
+
 msgid "CLEAR_CANVAS"
 msgstr "Clear canvas"
 
@@ -27,14 +48,32 @@ msgstr "Draw above"
 msgid "DRAW_UNDERNEATH"
 msgstr "Draw underneath"
 
+msgid "DYNAMICS_NOT_SUPPORTED"
+msgstr "Dynamics not supported"
+
 msgid "EDIT_COLOR"
 msgstr "Edit color"
+
+msgid "GO_BACK"
+msgstr "Go back"
+
+msgid "PRESS_GENTLY"
+msgstr "Press gently"
 
 msgid "SAVE"
 msgstr "Save"
 
 msgid "SELECT_COLOR"
 msgstr "Select color"
+
+msgid "STROKE_SETTINGS"
+msgstr "Stroke settings"
+
+msgid "STROKE_WIDTH"
+msgstr "Stroke width"
+
+msgid "TOGGLE_DYNAMICS"
+msgstr "Toggle dynamics on/off"
 
 msgid "TOGGLE_TRANSPARENCY"
 msgstr "Toggle canvas transparency"
