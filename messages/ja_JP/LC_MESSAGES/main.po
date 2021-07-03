@@ -77,7 +77,7 @@ msgid "HOT_KEYWORDS"
 msgstr "注目のキーワード"
 
 msgid "ID_PAGE"
-msgstr "ID Page"
+msgstr "IDページ"
 
 msgid "KEYWORDS"
 msgstr "キーワード"
