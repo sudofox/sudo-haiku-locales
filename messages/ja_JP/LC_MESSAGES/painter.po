@@ -4,25 +4,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CALIBRATE_DYNAMICS"
-msgstr "Calibrate dynamics"
+msgstr "ダイナミクスを調整"
 
 msgid "CALIBRATE_PROGRESS_MESSAGE1"
-msgstr "Gently..."
+msgstr "やさしく…"
 
 msgid "CALIBRATE_PROGRESS_MESSAGE2"
-msgstr "Press much harder now."
+msgstr "強く押してください"
 
 msgid "CALIBRATE_PROGRESS_MESSAGE3"
-msgstr "Move around a little bit!"
+msgstr "少しだけ周りに動かしてください"
 
 msgid "CALIBRATE_PROGRESS_MESSAGE4"
-msgstr "Keep pressing..."
+msgstr "押し続けてください…"
 
 msgid "CALIBRATION_COMPLETE"
-msgstr "Done!"
+msgstr "完了！"
 
 msgid "CALIBRATION_INTERRUPTED"
-msgstr "Calibration interrupted"
+msgstr "キャリブレーションを中断しました"
 
 msgid "CLEAR_CANVAS"
 msgstr "キャンバスをクリア"
@@ -49,16 +49,16 @@ msgid "DRAW_UNDERNEATH"
 msgstr "背面レイヤーに切り替える"
 
 msgid "DYNAMICS_NOT_SUPPORTED"
-msgstr "Dynamics not supported"
+msgstr "ダイナミクスがサポートされていません"
 
 msgid "EDIT_COLOR"
 msgstr "色を編集"
 
 msgid "GO_BACK"
-msgstr "Go back"
+msgstr "戻る"
 
 msgid "PRESS_GENTLY"
-msgstr "Press gently"
+msgstr "やさしく押してください"
 
 msgid "SAVE"
 msgstr "保存する"
@@ -67,13 +67,13 @@ msgid "SELECT_COLOR"
 msgstr "色を選択"
 
 msgid "STROKE_SETTINGS"
-msgstr "Stroke settings"
+msgstr "線の太さの設定"
 
 msgid "STROKE_WIDTH"
-msgstr "Stroke width"
+msgstr "線の太さ"
 
 msgid "TOGGLE_DYNAMICS"
-msgstr "Toggle dynamics on/off"
+msgstr "ダイナミクスのオン・オフを切り替える"
 
 msgid "TOGGLE_TRANSPARENCY"
 msgstr "キャンバスの透明度を切り替える"
