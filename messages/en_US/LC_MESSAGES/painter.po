@@ -48,14 +48,26 @@ msgstr "Draw above"
 msgid "DRAW_UNDERNEATH"
 msgstr "Draw underneath"
 
+msgid "DYNAMICS"
+msgstr "Dynamics"
+
 msgid "DYNAMICS_NOT_SUPPORTED"
 msgstr "Dynamics not supported"
 
 msgid "EDIT_COLOR"
 msgstr "Edit color"
 
+msgid "FORCE_SMOOTHING"
+msgstr "Force Smoothing"
+
 msgid "GO_BACK"
 msgstr "Go back"
+
+msgid "LAYERS"
+msgstr "Layers"
+
+msgid "PALETTE"
+msgstr "Palette"
 
 msgid "PRESS_GENTLY"
 msgstr "Press gently"
