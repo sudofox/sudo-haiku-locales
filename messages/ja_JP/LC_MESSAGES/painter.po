@@ -4,7 +4,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CALIBRATE_DYNAMICS"
-msgstr "ダイナミクスを調整"
+msgstr "筆圧を調整"
 
 msgid "CALIBRATE_PROGRESS_MESSAGE1"
 msgstr "やさしく…"
@@ -49,25 +49,25 @@ msgid "DRAW_UNDERNEATH"
 msgstr "背面レイヤーに切り替える"
 
 msgid "DYNAMICS"
-msgstr "Dynamics"
+msgstr "筆圧"
 
 msgid "DYNAMICS_NOT_SUPPORTED"
-msgstr "ダイナミクスがサポートされていません"
+msgstr "筆圧がサポートされていません"
 
 msgid "EDIT_COLOR"
 msgstr "色を編集"
 
 msgid "FORCE_SMOOTHING"
-msgstr "Force Smoothing"
+msgstr "筆圧の滑らかさ"
 
 msgid "GO_BACK"
 msgstr "戻る"
 
 msgid "LAYERS"
-msgstr "Layers"
+msgstr "レイヤー"
 
 msgid "PALETTE"
-msgstr "Palette"
+msgstr "パレット"
 
 msgid "PRESS_GENTLY"
 msgstr "やさしく押してください"
@@ -85,7 +85,7 @@ msgid "STROKE_WIDTH"
 msgstr "線の太さ"
 
 msgid "TOGGLE_DYNAMICS"
-msgstr "ダイナミクスのオン・オフを切り替える"
+msgstr "筆圧のオン・オフを切り替える"
 
 msgid "TOGGLE_TRANSPARENCY"
 msgstr "キャンバスの透明度を切り替える"
