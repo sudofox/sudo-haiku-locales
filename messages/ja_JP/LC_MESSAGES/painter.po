@@ -48,14 +48,26 @@ msgstr "前面レイヤーに切り替える"
 msgid "DRAW_UNDERNEATH"
 msgstr "背面レイヤーに切り替える"
 
+msgid "DYNAMICS"
+msgstr "Dynamics"
+
 msgid "DYNAMICS_NOT_SUPPORTED"
 msgstr "ダイナミクスがサポートされていません"
 
 msgid "EDIT_COLOR"
 msgstr "色を編集"
 
+msgid "FORCE_SMOOTHING"
+msgstr "Force Smoothing"
+
 msgid "GO_BACK"
 msgstr "戻る"
+
+msgid "LAYERS"
+msgstr "Layers"
+
+msgid "PALETTE"
+msgstr "Palette"
 
 msgid "PRESS_GENTLY"
 msgstr "やさしく押してください"
