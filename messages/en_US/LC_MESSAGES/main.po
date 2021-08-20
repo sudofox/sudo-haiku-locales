@@ -151,6 +151,9 @@ msgstr "{name}'s feed"
 msgid "USERS_PROFILE_IMAGE"
 msgstr "{name}' profile image"
 
+msgid "USER_HONORIFIC"
+msgstr ""
+
 msgid "VIEW_ENTRIES"
 msgstr "View entries"
 

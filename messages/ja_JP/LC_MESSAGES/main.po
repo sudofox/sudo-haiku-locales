@@ -143,13 +143,16 @@ msgid "USERS"
 msgstr "ユーザー"
 
 msgid "USERS_ENTRY"
-msgstr "{name} のエントリー"
+msgstr "{name}のエントリー"
 
 msgid "USERS_FEED"
 msgstr "{name} のフィード"
 
 msgid "USERS_PROFILE_IMAGE"
 msgstr "{name}' のプロフィール画像"
+
+msgid "USER_HONORIFIC"
+msgstr "さん"
 
 msgid "VIEW_ENTRIES"
 msgstr "エントリーを見る"
