@@ -19,4 +19,4 @@ msgid "SHARE"
 msgstr "Share"
 
 msgid "SHOW_REPLIES"
-msgstr "Show repies"
+msgstr "Show replies"
