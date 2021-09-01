@@ -34,7 +34,7 @@ export const messages = {
       "ENTRY_DELETED": "This entry has been deleted.",
       "REPLY": "Reply",
       "SHARE": "Share",
-      "SHOW_REPLIES": "Show repies"
+      "SHOW_REPLIES": "Show replies"
     },
     "entryFeed": {
       "NEW_ENTRY_MODAL": "Show {count} new entry|Show {count} new entries"
