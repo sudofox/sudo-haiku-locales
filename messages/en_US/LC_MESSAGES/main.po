@@ -127,6 +127,9 @@ msgstr "Remove from favorites"
 msgid "SETTINGS"
 msgstr "Settings"
 
+msgid "SUPPORT_SUDO_HAIKU"
+msgstr "Support Sudo Haiku"
+
 msgid "UNBLOCK"
 msgstr "Unblock"
 

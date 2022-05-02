@@ -127,6 +127,9 @@ msgstr "お気に入りから削除"
 msgid "SETTINGS"
 msgstr "設定"
 
+msgid "SUPPORT_SUDO_HAIKU"
+msgstr "Support Sudo Haiku"
+
 msgid "UNBLOCK"
 msgstr "ブロックを解除"
 
