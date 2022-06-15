@@ -128,7 +128,7 @@ msgid "SETTINGS"
 msgstr "設定"
 
 msgid "SUPPORT_SUDO_HAIKU"
-msgstr "Support Sudo Haiku"
+msgstr "Sudo Haikuをサポート"
 
 msgid "UNBLOCK"
 msgstr "ブロックを解除"
