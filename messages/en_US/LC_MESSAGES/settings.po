@@ -15,6 +15,9 @@ msgstr "Blocked users cannot view, interact with, or follow you."
 msgid "CONFIRM_LOGOUT"
 msgstr "Are you sure you want to logout?"
 
+msgid "DARK_MODE"
+msgstr "Dark mode"
+
 msgid "EDIT_PROFILE_INFORMATION"
 msgstr "Edit your profile details"
 

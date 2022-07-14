@@ -15,6 +15,9 @@ msgstr "ブロックされたユーザーはあなたの投稿を見たり、関
 msgid "CONFIRM_LOGOUT"
 msgstr "本当にログアウトしますか？"
 
+msgid "DARK_MODE"
+msgstr "ダークモード"
+
 msgid "EDIT_PROFILE_INFORMATION"
 msgstr "プロフィールを編集する"
 
