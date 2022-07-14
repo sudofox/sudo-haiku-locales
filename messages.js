@@ -355,7 +355,7 @@ export const messages = {
       "RELATED_KEYWORDS": "関連キーワード",
       "REMOVE_FROM_FAVORITES": "お気に入りから削除",
       "SETTINGS": "設定",
-      "SUPPORT_SUDO_HAIKU": "Support Sudo Haiku",
+      "SUPPORT_SUDO_HAIKU": "Sudo Haikuをサポート",
       "UNBLOCK": "ブロックを解除",
       "UNBLOCK_USER": "{user} のブロックを解除",
       "UNMUTE": "ミュートを解除",
